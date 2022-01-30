@@ -7,7 +7,8 @@
 		<classes>
 			<class name="common.RediffMail.Test.VerifyObjectsOfLoginPage" />
 		</classes>
-	</test>
+	
+</test>
 	<parameter name="browser" value="edge" />
 	<test name="Validate elements of Rediffmail login page in Edge Browser">
 		<classes>
