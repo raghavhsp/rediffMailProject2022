@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Basic Sanity" verbose="1">
+
+	<parameter name="browser" value="chrome" />
+	<test name="Validate elements of Rediffmail login page in Chrome Browser">
+		<classes>
+			<class name="common.RediffMail.Test.VerifyObjectsOfLoginPage" />
+		</classes>
+	</test>
+	<parameter name="browser" value="edge" />
+	<test name="Validate elements of Rediffmail login page in Edge Browser">
+		<classes>
+			<class name="common.RediffMail.Test.VerifyObjectsOfLoginPage" />
+		</classes>
+	</test>
+</suite>
