@@ -48,7 +48,7 @@ public class EmailHelper {
 			message.setFrom(new InternetAddress("raghavtestingacc@gmail.com"));
 
 			// Set the recipient address
-			message.setRecipients(Message.RecipientType.TO, InternetAddress.parse("sshailja7@gmail.com"));
+			message.setRecipients(Message.RecipientType.TO, InternetAddress.parse("raghavhsp@protonmail.com"));
 
 			// Add the subject link
 			message.setSubject("NEW TEST REPORT EMAIL");
