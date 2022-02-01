@@ -6,6 +6,7 @@ import org.apache.maven.shared.utils.io.FileUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
+
 /**
  * @author Raghav Agnihotri
  * @since 01302022
@@ -14,9 +15,9 @@ import org.openqa.selenium.WebDriver;
 public class TakeScreenShot {
 	static int counter = 1;
 
-	 /**
-	 * @Description: "takeNewScreenShot" used to take screenshot of current driver window instance
-	 * create a logger
+	/**
+	 * @Description: "takeNewScreenShot" used to take screenshot of current driver
+	 *               window instance create a logger
 	 * 
 	 * @since 01302022
 	 * 
@@ -25,7 +26,6 @@ public class TakeScreenShot {
 	 * @author Raghav Agnihotri
 	 * 
 	 */
-	
 
 	@SuppressWarnings("deprecation")
 	public boolean takeNewScreenShot(WebDriver driver, String testResultsFolderPath) {
@@ -34,8 +34,9 @@ public class TakeScreenShot {
 		File screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 		try {
 			FileUtils.copyFile(screenshot, new File(testResultsFolderPath + "//" + Integer.toString(counter) + ".png"));
-			System.out.println("screnshot created "+ Integer.toString(counter) + ".png");
-		} catch (IOException e) {
+			System.out.println("screnshot created " + Integer.toString(counter) + ".png");
+			Thread.sleep(4000);
+		} catch (Exception e) {
 
 			e.printStackTrace();
 		}

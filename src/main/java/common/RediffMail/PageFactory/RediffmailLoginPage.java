@@ -12,15 +12,29 @@ import org.openqa.selenium.WebDriver;
 public class RediffmailLoginPage {
 	WebDriver driver;
 
-	// Weblement Locators
-	private By userNameTextBox = By.xpath("//input[contains(@id,'login')]asdasd");
+	// WebElement Locators
+	private By userNameTextBox = By.xpath("//input[contains(@id,'login')]");
 	private By userPasswordTextBox = By.xpath("//input[contains(@id,'password')]");
 	private By keepMeSignedInCheckBox = By.xpath("//input[contains(@id,'remember')]");
 	private By signInButton = By.xpath("//input[contains(@title,'Sign in')]");
 	private By forgotPasswordButton = By.xpath("//a[@href]//u[contains(text(),'Forgot')]");
 	private By createNewAccountLink = By.xpath("//a[@href]//u[contains(text(),'new account')]");
-
-	// Getter methods of WebElements
+	private By rediffDotComLink = By.xpath("//a[@href='https://www.rediff.com']");
+	private By diclaimerLink = By.xpath("//a[@href='http://in.rediff.com/disclaim.htm']");
+	private By privacyPolicyLink =By.xpath("//a[@href='http://www.rediff.com/w3c/policy.html']");
+	
+	public By getPrivacyPolicyLink() {
+		return privacyPolicyLink;
+	}
+	
+	public By getDiclaimerLink() {
+		return diclaimerLink;
+	}
+	
+	public By getRediffDotComLink() {
+		return rediffDotComLink;
+	}
+	
 	public By getCreateNewAccountLink() {
 		return createNewAccountLink;
 	}
@@ -44,4 +58,5 @@ public class RediffmailLoginPage {
 	public By getUserNameTextBox() {
 		return userNameTextBox;
 	}
+
 }
