@@ -3,19 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="common.RediffMail.Test.VerifyObjectsOfLoginPage">
+      <class name="common.Utility.DataReader">
         <methods>
-          <include name="verifyPresenceOfUserPasswordTextBox"/>
-          <include name="sendEmailReport"/>
-          <include name="verifyPresenceOfSignInButton"/>
-          <include name="verifyPresenceOfUserNameTextBox"/>
-          <include name="verifyPresenceOfCreateNewAccountLink"/>
-          <include name="verifyPresenceOfKeepMeSignedInCheckBox"/>
-          <include name="initializeBrowser"/>
-          <include name="quitBrowser"/>
-          <include name="verifyPresenceOfForgotPasswordButton"/>
+          <include name="getTestCaseData2"/>
         </methods>
-      </class> <!-- common.RediffMail.Test.VerifyObjectsOfLoginPage -->
+      </class> <!-- common.Utility.DataReader -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
