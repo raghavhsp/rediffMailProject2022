@@ -1,12 +1,16 @@
 package common.Utility;
 
+import java.util.concurrent.TimeUnit;
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterSuite;
+import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Parameters;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
@@ -26,7 +30,7 @@ public class TestBaseClass {
 	public SeleneiumUtilities objSeleneiumUtilities = new SeleneiumUtilities();
 	public DirectoryHelper objDirectoryHelper = new DirectoryHelper();
 	public TakeScreenShot screenShot = new TakeScreenShot();
-
+	
 	/**
 	 * @Description: "initializeBrowser" is a function used setup driver
 	 *               capabilities create a logger
@@ -40,7 +44,8 @@ public class TestBaseClass {
 	 * @implNote takes test NG parameter "browser"
 	 */
 	@Parameters("browser")
-	@BeforeMethod
+	@BeforeTest
+	@SuppressWarnings( "deprecation" )
 	public void initializeBrowser(String browser) throws InterruptedException {
 		if (browser.equalsIgnoreCase("chrome")) {
 			try {
@@ -49,6 +54,8 @@ public class TestBaseClass {
 				Log.info("Lanching browser :Chrome");
 				driver.get(objGenricHelper.readFromPropertiesFile("BaseURL"));
 				driver.manage().window().maximize();
+				driver.manage().timeouts().pageLoadTimeout(objGenricHelper.readIntFromPropertiesFile("PageLoadTimeOut"),TimeUnit.SECONDS);
+				driver.manage().timeouts().implicitlyWait(objGenricHelper.readIntFromPropertiesFile("ImplicitWaitTime"), TimeUnit.SECONDS);
 			} catch (Exception e) {
 
 				Log.error(e.getMessage());
@@ -99,7 +106,7 @@ public class TestBaseClass {
 		}
 	}
 
-	@AfterMethod
+	@AfterTest
 	public void quitBrowser() {
 		try {
 			driver.quit();

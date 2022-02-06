@@ -149,5 +149,48 @@ public class VerifyObjectsOfLoginPage extends TestBaseClass {
 		objLogHelper.testCaseEndLogCreator(testCaseName);
 	}
 	
+	@Description("This is a basic test to verify the presence of basic elements in login page of Rediffmail : DiclaimerLink")
+	@Test(description = "This is a basic test to verify the presence of basic elements in login page of Rediffmail : DiclaimerLink",priority = 1)
+	public void verifyPresenceOfDiclaimerLink() {
+		// Get Class Name
+		String testCaseName = new Object() {}.getClass().getEnclosingMethod().getName();
+		
+		// Create Test Result Folder with Function Name And Date Time Stamp
+		String testResultFolderPath = objDirectoryHelper.createDirectoryForTestResult(testCaseName);
+		
+		// Log TEST START
+		objLogHelper.testCaseStartLogCreator(testCaseName);
+		
+		//Validate presence of SignInButton
+		Assert.assertTrue(objSeleneiumUtilities.isDisplayed(driver, objRediffmailLoginPage.getDiclaimerLink()),"Diclaimer Link  presnet");
+		
+		//Take Screenshot
+		screenShot.takeNewScreenShot(driver, testResultFolderPath);
+		
+		// Log TEST END
+		objLogHelper.testCaseEndLogCreator(testCaseName);
+	}
+	
+	@Description("This is a basic test to verify the presence of basic elements in login page of Rediffmail : PrivacyPolicyLink")
+	@Test(description = "This is a basic test to verify the presence of basic elements in login page of Rediffmail : PrivacyPolicyLink",priority = 1)
+	public void verifyPresenceOfPrivacyPolicyLink() {
+		// Get Class Name
+		String testCaseName = new Object() {}.getClass().getEnclosingMethod().getName();
+		
+		// Create Test Result Folder with Function Name And Date Time Stamp
+		String testResultFolderPath = objDirectoryHelper.createDirectoryForTestResult(testCaseName);
+		
+		// Log TEST START
+		objLogHelper.testCaseStartLogCreator(testCaseName);
+		
+		//Validate presence of SignInButton
+		Assert.assertTrue(objSeleneiumUtilities.isDisplayed(driver, objRediffmailLoginPage.getPrivacyPolicyLink()),"Privacy Policy Link  presnet");
+		
+		//Take Screenshot
+		screenShot.takeNewScreenShot(driver, testResultFolderPath);
+		
+		// Log TEST END
+		objLogHelper.testCaseEndLogCreator(testCaseName);
+	}
 	
 }

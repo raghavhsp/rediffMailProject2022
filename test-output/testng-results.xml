@@ -1,17 +1,166 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="24" passed="24" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-02-06T00:45:02 IST" name="Default suite" finished-at="2022-02-06T00:45:04 IST" duration-ms="2480">
+  <suite started-at="2022-02-06T11:25:46 IST" name="Basic Sanity" finished-at="2022-02-06T11:28:02 IST" duration-ms="135830">
     <groups>
     </groups>
-    <test started-at="2022-02-06T00:45:02 IST" name="Default test" finished-at="2022-02-06T00:45:04 IST" duration-ms="2480">
-      <class name="common.Utility.DataReader">
-        <test-method signature="getTestCaseData2()[pri:0, instance:common.Utility.DataReader@1b84f475]" started-at="2022-02-06T00:45:02 IST" name="getTestCaseData2" finished-at="2022-02-06T00:45:04 IST" duration-ms="2277" status="PASS">
+    <test started-at="2022-02-06T11:25:46 IST" name="Validate elements of Rediffmail login page in Chrome Browser" finished-at="2022-02-06T11:26:33 IST" duration-ms="47320">
+      <class name="common.RediffMail.Test.VerifyObjectsOfLoginPage">
+        <test-method is-config="true" signature="initializeBrowser(java.lang.String)[pri:0, instance:common.RediffMail.Test.VerifyObjectsOfLoginPage@7241a47d]" started-at="2022-02-06T11:25:46 IST" name="initializeBrowser" finished-at="2022-02-06T11:25:58 IST" duration-ms="11654" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getTestCaseData2 -->
-      </class> <!-- common.Utility.DataReader -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- initializeBrowser -->
+        <test-method signature="verifyPresenceOfCreateNewAccountLink()[pri:1, instance:common.RediffMail.Test.VerifyObjectsOfLoginPage@7241a47d]" started-at="2022-02-06T11:25:58 IST" name="verifyPresenceOfCreateNewAccountLink" description="This is a basic test to verify the presence of basic elements in login page of Rediffmail : CreateNewAccountLink" finished-at="2022-02-06T11:26:02 IST" duration-ms="4615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPresenceOfCreateNewAccountLink -->
+        <test-method signature="verifyPresenceOfDiclaimerLink()[pri:1, instance:common.RediffMail.Test.VerifyObjectsOfLoginPage@7241a47d]" started-at="2022-02-06T11:26:03 IST" name="verifyPresenceOfDiclaimerLink" description="This is a basic test to verify the presence of basic elements in login page of Rediffmail : DiclaimerLink" finished-at="2022-02-06T11:26:07 IST" duration-ms="4460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPresenceOfDiclaimerLink -->
+        <test-method signature="verifyPresenceOfForgotPasswordButton()[pri:1, instance:common.RediffMail.Test.VerifyObjectsOfLoginPage@7241a47d]" started-at="2022-02-06T11:26:07 IST" name="verifyPresenceOfForgotPasswordButton" description="This is a basic test to verify the presence of basic elements in login page of Rediffmail : ForgotPasswordButton" finished-at="2022-02-06T11:26:11 IST" duration-ms="4270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPresenceOfForgotPasswordButton -->
+        <test-method signature="verifyPresenceOfPrivacyPolicyLink()[pri:1, instance:common.RediffMail.Test.VerifyObjectsOfLoginPage@7241a47d]" started-at="2022-02-06T11:26:11 IST" name="verifyPresenceOfPrivacyPolicyLink" description="This is a basic test to verify the presence of basic elements in login page of Rediffmail : PrivacyPolicyLink" finished-at="2022-02-06T11:26:16 IST" duration-ms="4256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPresenceOfPrivacyPolicyLink -->
+        <test-method signature="verifyPresenceOfSignInButton()[pri:1, instance:common.RediffMail.Test.VerifyObjectsOfLoginPage@7241a47d]" started-at="2022-02-06T11:26:16 IST" name="verifyPresenceOfSignInButton" description="This is a basic test to verify the presence of basic elements in login page of Rediffmail : SignInButton" finished-at="2022-02-06T11:26:20 IST" duration-ms="4214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPresenceOfSignInButton -->
+        <test-method signature="verifyPresenceOfUserNameTextBox()[pri:1, instance:common.RediffMail.Test.VerifyObjectsOfLoginPage@7241a47d]" started-at="2022-02-06T11:26:20 IST" name="verifyPresenceOfUserNameTextBox" description="This is a basic test to verify the presence of basic elements in login page of Rediffmail : UserNameTextBox" finished-at="2022-02-06T11:26:24 IST" duration-ms="4253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPresenceOfUserNameTextBox -->
+        <test-method signature="verifyPresenceOfUserPasswordTextBox()[pri:1, instance:common.RediffMail.Test.VerifyObjectsOfLoginPage@7241a47d]" started-at="2022-02-06T11:26:24 IST" name="verifyPresenceOfUserPasswordTextBox" description="This is a basic test to verify the presence of basic elements in login page of Rediffmail : UserPasswordTextBox" finished-at="2022-02-06T11:26:28 IST" duration-ms="4298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPresenceOfUserPasswordTextBox -->
+        <test-method signature="verifyPresenceOfKeepMeSignedInCheckBox()[pri:3, instance:common.RediffMail.Test.VerifyObjectsOfLoginPage@7241a47d]" started-at="2022-02-06T11:26:29 IST" name="verifyPresenceOfKeepMeSignedInCheckBox" description="This is a basic test to verify the presence of basic elements in login page of Rediffmail : KeepMeSignedInCheckBox" finished-at="2022-02-06T11:26:33 IST" duration-ms="4269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPresenceOfKeepMeSignedInCheckBox -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:common.RediffMail.Test.VerifyObjectsOfLoginPage@7241a47d]" started-at="2022-02-06T11:26:33 IST" name="quitBrowser" finished-at="2022-02-06T11:26:33 IST" duration-ms="468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- common.RediffMail.Test.VerifyObjectsOfLoginPage -->
+    </test> <!-- Validate elements of Rediffmail login page in Chrome Browser -->
+    <test started-at="2022-02-06T11:26:33 IST" name="Validate elements of Rediffmail login page in Edge Browser" finished-at="2022-02-06T11:27:18 IST" duration-ms="44460">
+      <class name="common.RediffMail.Test.VerifyObjectsOfLoginPage">
+        <test-method is-config="true" signature="initializeBrowser(java.lang.String)[pri:0, instance:common.RediffMail.Test.VerifyObjectsOfLoginPage@3da05287]" started-at="2022-02-06T11:26:33 IST" name="initializeBrowser" finished-at="2022-02-06T11:26:43 IST" duration-ms="9542" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method signature="verifyPresenceOfCreateNewAccountLink()[pri:1, instance:common.RediffMail.Test.VerifyObjectsOfLoginPage@3da05287]" started-at="2022-02-06T11:26:43 IST" name="verifyPresenceOfCreateNewAccountLink" description="This is a basic test to verify the presence of basic elements in login page of Rediffmail : CreateNewAccountLink" finished-at="2022-02-06T11:26:47 IST" duration-ms="4435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPresenceOfCreateNewAccountLink -->
+        <test-method signature="verifyPresenceOfDiclaimerLink()[pri:1, instance:common.RediffMail.Test.VerifyObjectsOfLoginPage@3da05287]" started-at="2022-02-06T11:26:47 IST" name="verifyPresenceOfDiclaimerLink" description="This is a basic test to verify the presence of basic elements in login page of Rediffmail : DiclaimerLink" finished-at="2022-02-06T11:26:52 IST" duration-ms="4277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPresenceOfDiclaimerLink -->
+        <test-method signature="verifyPresenceOfForgotPasswordButton()[pri:1, instance:common.RediffMail.Test.VerifyObjectsOfLoginPage@3da05287]" started-at="2022-02-06T11:26:52 IST" name="verifyPresenceOfForgotPasswordButton" description="This is a basic test to verify the presence of basic elements in login page of Rediffmail : ForgotPasswordButton" finished-at="2022-02-06T11:26:56 IST" duration-ms="4266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPresenceOfForgotPasswordButton -->
+        <test-method signature="verifyPresenceOfPrivacyPolicyLink()[pri:1, instance:common.RediffMail.Test.VerifyObjectsOfLoginPage@3da05287]" started-at="2022-02-06T11:26:56 IST" name="verifyPresenceOfPrivacyPolicyLink" description="This is a basic test to verify the presence of basic elements in login page of Rediffmail : PrivacyPolicyLink" finished-at="2022-02-06T11:27:00 IST" duration-ms="4263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPresenceOfPrivacyPolicyLink -->
+        <test-method signature="verifyPresenceOfSignInButton()[pri:1, instance:common.RediffMail.Test.VerifyObjectsOfLoginPage@3da05287]" started-at="2022-02-06T11:27:00 IST" name="verifyPresenceOfSignInButton" description="This is a basic test to verify the presence of basic elements in login page of Rediffmail : SignInButton" finished-at="2022-02-06T11:27:05 IST" duration-ms="4260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPresenceOfSignInButton -->
+        <test-method signature="verifyPresenceOfUserNameTextBox()[pri:1, instance:common.RediffMail.Test.VerifyObjectsOfLoginPage@3da05287]" started-at="2022-02-06T11:27:05 IST" name="verifyPresenceOfUserNameTextBox" description="This is a basic test to verify the presence of basic elements in login page of Rediffmail : UserNameTextBox" finished-at="2022-02-06T11:27:09 IST" duration-ms="4241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPresenceOfUserNameTextBox -->
+        <test-method signature="verifyPresenceOfUserPasswordTextBox()[pri:1, instance:common.RediffMail.Test.VerifyObjectsOfLoginPage@3da05287]" started-at="2022-02-06T11:27:09 IST" name="verifyPresenceOfUserPasswordTextBox" description="This is a basic test to verify the presence of basic elements in login page of Rediffmail : UserPasswordTextBox" finished-at="2022-02-06T11:27:13 IST" duration-ms="4228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPresenceOfUserPasswordTextBox -->
+        <test-method signature="verifyPresenceOfKeepMeSignedInCheckBox()[pri:3, instance:common.RediffMail.Test.VerifyObjectsOfLoginPage@3da05287]" started-at="2022-02-06T11:27:13 IST" name="verifyPresenceOfKeepMeSignedInCheckBox" description="This is a basic test to verify the presence of basic elements in login page of Rediffmail : KeepMeSignedInCheckBox" finished-at="2022-02-06T11:27:17 IST" duration-ms="4269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPresenceOfKeepMeSignedInCheckBox -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:common.RediffMail.Test.VerifyObjectsOfLoginPage@3da05287]" started-at="2022-02-06T11:27:17 IST" name="quitBrowser" finished-at="2022-02-06T11:27:18 IST" duration-ms="439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- common.RediffMail.Test.VerifyObjectsOfLoginPage -->
+    </test> <!-- Validate elements of Rediffmail login page in Edge Browser -->
+    <test started-at="2022-02-06T11:27:18 IST" name="Validate elements of Rediffmail login page in Firefox Browser" finished-at="2022-02-06T11:28:02 IST" duration-ms="43935">
+      <class name="common.RediffMail.Test.VerifyObjectsOfLoginPage">
+        <test-method is-config="true" signature="initializeBrowser(java.lang.String)[pri:0, instance:common.RediffMail.Test.VerifyObjectsOfLoginPage@497486b3]" started-at="2022-02-06T11:27:18 IST" name="initializeBrowser" finished-at="2022-02-06T11:27:26 IST" duration-ms="8366" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method signature="verifyPresenceOfCreateNewAccountLink()[pri:1, instance:common.RediffMail.Test.VerifyObjectsOfLoginPage@497486b3]" started-at="2022-02-06T11:27:26 IST" name="verifyPresenceOfCreateNewAccountLink" description="This is a basic test to verify the presence of basic elements in login page of Rediffmail : CreateNewAccountLink" finished-at="2022-02-06T11:27:31 IST" duration-ms="4520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPresenceOfCreateNewAccountLink -->
+        <test-method signature="verifyPresenceOfDiclaimerLink()[pri:1, instance:common.RediffMail.Test.VerifyObjectsOfLoginPage@497486b3]" started-at="2022-02-06T11:27:31 IST" name="verifyPresenceOfDiclaimerLink" description="This is a basic test to verify the presence of basic elements in login page of Rediffmail : DiclaimerLink" finished-at="2022-02-06T11:27:35 IST" duration-ms="4356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPresenceOfDiclaimerLink -->
+        <test-method signature="verifyPresenceOfForgotPasswordButton()[pri:1, instance:common.RediffMail.Test.VerifyObjectsOfLoginPage@497486b3]" started-at="2022-02-06T11:27:35 IST" name="verifyPresenceOfForgotPasswordButton" description="This is a basic test to verify the presence of basic elements in login page of Rediffmail : ForgotPasswordButton" finished-at="2022-02-06T11:27:39 IST" duration-ms="4183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPresenceOfForgotPasswordButton -->
+        <test-method signature="verifyPresenceOfPrivacyPolicyLink()[pri:1, instance:common.RediffMail.Test.VerifyObjectsOfLoginPage@497486b3]" started-at="2022-02-06T11:27:39 IST" name="verifyPresenceOfPrivacyPolicyLink" description="This is a basic test to verify the presence of basic elements in login page of Rediffmail : PrivacyPolicyLink" finished-at="2022-02-06T11:27:44 IST" duration-ms="4261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPresenceOfPrivacyPolicyLink -->
+        <test-method signature="verifyPresenceOfSignInButton()[pri:1, instance:common.RediffMail.Test.VerifyObjectsOfLoginPage@497486b3]" started-at="2022-02-06T11:27:44 IST" name="verifyPresenceOfSignInButton" description="This is a basic test to verify the presence of basic elements in login page of Rediffmail : SignInButton" finished-at="2022-02-06T11:27:48 IST" duration-ms="4234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPresenceOfSignInButton -->
+        <test-method signature="verifyPresenceOfUserNameTextBox()[pri:1, instance:common.RediffMail.Test.VerifyObjectsOfLoginPage@497486b3]" started-at="2022-02-06T11:27:48 IST" name="verifyPresenceOfUserNameTextBox" description="This is a basic test to verify the presence of basic elements in login page of Rediffmail : UserNameTextBox" finished-at="2022-02-06T11:27:52 IST" duration-ms="4146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPresenceOfUserNameTextBox -->
+        <test-method signature="verifyPresenceOfUserPasswordTextBox()[pri:1, instance:common.RediffMail.Test.VerifyObjectsOfLoginPage@497486b3]" started-at="2022-02-06T11:27:52 IST" name="verifyPresenceOfUserPasswordTextBox" description="This is a basic test to verify the presence of basic elements in login page of Rediffmail : UserPasswordTextBox" finished-at="2022-02-06T11:27:56 IST" duration-ms="4172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPresenceOfUserPasswordTextBox -->
+        <test-method signature="verifyPresenceOfKeepMeSignedInCheckBox()[pri:3, instance:common.RediffMail.Test.VerifyObjectsOfLoginPage@497486b3]" started-at="2022-02-06T11:27:56 IST" name="verifyPresenceOfKeepMeSignedInCheckBox" description="This is a basic test to verify the presence of basic elements in login page of Rediffmail : KeepMeSignedInCheckBox" finished-at="2022-02-06T11:28:00 IST" duration-ms="4148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPresenceOfKeepMeSignedInCheckBox -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:common.RediffMail.Test.VerifyObjectsOfLoginPage@497486b3]" started-at="2022-02-06T11:28:00 IST" name="quitBrowser" finished-at="2022-02-06T11:28:02 IST" duration-ms="1483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method is-config="true" signature="sendEmailReport()[pri:0, instance:common.RediffMail.Test.VerifyObjectsOfLoginPage@497486b3]" started-at="2022-02-06T11:28:02 IST" name="sendEmailReport" finished-at="2022-02-06T11:28:07 IST" duration-ms="5182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendEmailReport -->
+      </class> <!-- common.RediffMail.Test.VerifyObjectsOfLoginPage -->
+    </test> <!-- Validate elements of Rediffmail login page in Firefox Browser -->
+  </suite> <!-- Basic Sanity -->
 </testng-results>
