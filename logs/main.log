@@ -23722,3 +23722,18 @@
 2022-02-06 00:45:04,733 +0530 [main] INFO  (DataReader.java:117) - Loading ROW :2
 2022-02-06 00:45:04,734 +0530 [main] INFO  (DataReader.java:120) - Found DATA in COL :3
 2022-02-06 00:45:04,735 +0530 [main] INFO  (DataReader.java:133) - DATA IS 1231.0
+2022-02-06 11:25:55,798 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:51) - Lanching browser :Chrome
+2022-02-06 11:26:33,778 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:108) - Browser Window Closed
+2022-02-06 11:26:41,675 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:83) - Lanching browser :EDGE
+2022-02-06 11:27:18,344 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:108) - Browser Window Closed
+2022-02-06 11:27:25,226 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:65) - Lanching browser :Fire Fox
+2022-02-06 11:28:02,287 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:108) - Browser Window Closed
+2022-02-06 11:28:07,547 +0530 [main] INFO  (TestBaseClass.java:119) - Email report sent
+2022-02-06 11:34:31,004 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:51) - Lanching browser :Chrome
+2022-02-06 11:37:45,985 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:51) - Lanching browser :Chrome
+2022-02-06 11:38:22,399 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:108) - Browser Window Closed
+2022-02-06 11:38:25,615 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:83) - Lanching browser :EDGE
+2022-02-06 11:39:02,267 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:108) - Browser Window Closed
+2022-02-06 11:39:09,746 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:65) - Lanching browser :Fire Fox
+2022-02-06 11:40:27,570 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:51) - Lanching browser :Chrome
+2022-02-06 11:41:15,807 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:51) - Lanching browser :Chrome

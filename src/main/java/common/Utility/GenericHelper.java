@@ -33,7 +33,7 @@ public class GenericHelper {
 		Date date = Calendar.getInstance().getTime();
 		DateFormat dateFormat = new SimpleDateFormat("ddMMMyy hhmmss");
 		String currentDateTimeString = dateFormat.format(date);
-		System.out.println("CCDTM :" + currentDateTimeString);
+		System.out.println("\nTC TIME_STAMP   :" + currentDateTimeString+"\n");
 
 		return currentDateTimeString;
 	}
@@ -55,7 +55,6 @@ public class GenericHelper {
 		} else {
 			String TRFolderPath = readFromPropertiesFile("testOutputFileBasePath");
 			TRFolderPath = TRFolderPath + "\\" + testResultFolderName;
-			System.out.println("Test Folder Path :" + TRFolderPath);
 			return TRFolderPath;
 		}
 	}
@@ -80,6 +79,19 @@ public class GenericHelper {
 			e.printStackTrace();
 		}
 		return null;
+	}
+	
+	public int readIntFromPropertiesFile(String property) {
+		Properties properties = new Properties();
+		try {
+			InputStream input = new FileInputStream("G:\\Automation_Projects\\src\\main\\resources\\config.properties");
+			properties.load(input);
+			int value;
+			return value=Integer.parseInt(properties.getProperty(property));
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		return (Integer) null;
 	}
 
 	/**

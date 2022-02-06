@@ -27,8 +27,8 @@ public class DirectoryHelper {
 		String testResultFolderPath = objGenricHelper.testFolderPathGenerator(testResultFolderName);
 		File file = new File(testResultFolderPath);
 		file.mkdir();
-	    System.out.println("Test Restult Folder Name :"+testResultFolderName);
-	    System.out.println("Test Restult Folder Path :"+testResultFolderPath);
+	    System.out.println("\nTest Restult Folder Name :    "+testResultFolderName+"\n\n");
+	    System.out.println("Test Restult Folder Path :    "+testResultFolderPath+"\n\n");
 		return testResultFolderPath;
 	}
 }
