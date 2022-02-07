@@ -18,7 +18,12 @@ import java.util.Properties;
  */
 
 public class GenericHelper {
-
+	/*
+	 * public LogHelper objLogHelper = new LogHelper(); public
+	 * org.apache.log4j.Logger Log = objLogHelper.getLogger(getClass());
+	 */
+	
+	
 	/**
 	 * @Description: "convertDateTimeToString" is a function used convert a current
 	 *               date and time to a format ddMMMyy hhmmss and return as string
@@ -76,7 +81,7 @@ public class GenericHelper {
 			properties.load(input);
 			return properties.getProperty(property);
 		} catch (Exception e) {
-			e.printStackTrace();
+			System.out.println("Exception Message :"+e.getMessage());
 		}
 		return null;
 	}
@@ -89,7 +94,7 @@ public class GenericHelper {
 			int value;
 			return value=Integer.parseInt(properties.getProperty(property));
 		} catch (Exception e) {
-			e.printStackTrace();
+			System.out.println("Exception Message :"+e.getMessage());
 		}
 		return (Integer) null;
 	}
@@ -112,7 +117,7 @@ public class GenericHelper {
 			properties.store(output, "Property added by code " + key + "=" + value);
 			return properties.getProperty("BaseURL");
 		} catch (Exception e) {
-			e.printStackTrace();
+			System.out.println("Exception Message :"+e.getMessage());
 		}
 		return null;
 	}

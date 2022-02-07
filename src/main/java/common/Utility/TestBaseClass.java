@@ -30,6 +30,7 @@ public class TestBaseClass {
 	public SeleneiumUtilities objSeleneiumUtilities = new SeleneiumUtilities();
 	public DirectoryHelper objDirectoryHelper = new DirectoryHelper();
 	public TakeScreenShot screenShot = new TakeScreenShot();
+	public DataReader objDataReader = new DataReader();
 	
 	/**
 	 * @Description: "initializeBrowser" is a function used setup driver

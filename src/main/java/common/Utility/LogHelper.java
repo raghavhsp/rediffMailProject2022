@@ -12,8 +12,7 @@ import org.apache.log4j.Logger;
  * @description: Contains function to help in logging
  */
 public class LogHelper {
-	GenericHelper objGenricHelper = new GenericHelper();
-	Logger Log = getLogger(getClass());
+	public GenericHelper objGenricHelper = new GenericHelper();
 
 	/**
 	 * @Description: "getLogger" is a function used set properties for log4j to
