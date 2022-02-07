@@ -15,7 +15,7 @@ public class SeleneiumUtilities {
 
 			flag = driver.findElement(element).isDisplayed();
 		} catch (Exception e) {
-			Log.warn(e.getMessage());
+			Log.error("Exception Message :"+e.getMessage());
 		}
 		return flag;
 	}
@@ -26,7 +26,7 @@ public class SeleneiumUtilities {
 			currentURL = driver.getCurrentUrl();
 			Log.info("Current URL is :" + currentURL);
 		} catch (Exception e) {
-			Log.warn(e.getMessage());
+			Log.error("Exception Message :"+e.getMessage());
 		}
 		return currentURL;
 	}
@@ -37,31 +37,50 @@ public class SeleneiumUtilities {
 			title = driver.getTitle();
 			Log.info("Title is :" + title);
 		} catch (Exception e) {
-			Log.warn(e.getMessage());
+			Log.error("Exception Message :"+e.getMessage());
 		}
 		return title;
 	}
 
 	public void sendKeys(WebDriver driver, By element, String string) {
-
-		driver.findElement(element).sendKeys(string);
+		try {
+			waitForWebElementToBeVisible (driver ,element);
+			driver.findElement(element).sendKeys(string);
+		} catch (Exception e) {
+			Log.error("Exception Message :"+e.getMessage());
+			Log.info("Element Details: "+element.toString());
+		}
 	}
-
-	public void waitForWebElementToBeVisible(WebDriver driver, By webElement) {
+	
+	public void click(WebDriver driver, By element) {
+		try {
+			waitForWebElementToBeClickable (driver ,element);
+			driver.findElement(element).click();
+		} catch (Exception e) {
+			Log.error("Exception Message :"+e.getMessage());
+			Log.info("Element Details: "+element.toString());
+		}
+	}
+	@SuppressWarnings("deprecation")
+	public  void waitForWebElementToBeVisible(WebDriver driver, By element) {
 		try {
 			WebDriverWait wait = new WebDriverWait(driver,objGenericHelper.readIntFromPropertiesFile("waitForWebElementToBeVisible"));
-		 wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(webElement));
+		 wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(element));
 		} catch (Exception e) {
-			Log.warn(e.getMessage());
+			Log.error("Exception Message :"+e.getMessage());
+			Log.info("Element Details: "+element.toString());
 		}
 
 	}
-	public void waitForWebElementToBeClickable(WebDriver driver, By webElement) {
+	@SuppressWarnings("deprecation")
+	public void waitForWebElementToBeClickable(WebDriver driver, By element) {
 		try {
 			WebDriverWait wait = new WebDriverWait(driver, objGenericHelper.readIntFromPropertiesFile("waitForWebElementToBeVisible"));
-			wait.until(ExpectedConditions.elementToBeClickable(webElement));
+			wait.until(ExpectedConditions.elementToBeClickable(element));
 		} catch (Exception e) {
-			Log.warn(e.getMessage());
+			Log.error("Exception Message :"+e.getMessage());
+			Log.info("Element Details: "+element.toString());
 		}
 	}
+
 }

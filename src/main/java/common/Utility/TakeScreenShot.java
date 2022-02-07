@@ -13,6 +13,8 @@ import org.openqa.selenium.WebDriver;
  * @description: contains funtions to help creation of screenshots
  */
 public class TakeScreenShot {
+	public LogHelper objLogHelper = new LogHelper();
+	public org.apache.log4j.Logger Log = objLogHelper.getLogger(getClass());
 	static int counter = 1;
 
 	/**
@@ -34,11 +36,11 @@ public class TakeScreenShot {
 		File screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 		try {
 			FileUtils.copyFile(screenshot, new File(testResultsFolderPath + "//" + Integer.toString(counter) + ".png"));
-			System.out.println("screnshot created " + Integer.toString(counter) + ".png");
+			Log.info("Screnshot Captured " + Integer.toString(counter) + ".png");
 			Thread.sleep(4000);
 		} catch (Exception e) {
 
-			e.printStackTrace();
+			Log.error(e.getMessage());
 		}
 		counter++;
 		return flag;

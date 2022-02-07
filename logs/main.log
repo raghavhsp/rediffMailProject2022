@@ -23737,3 +23737,1443 @@
 2022-02-06 11:39:09,746 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:65) - Lanching browser :Fire Fox
 2022-02-06 11:40:27,570 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:51) - Lanching browser :Chrome
 2022-02-06 11:41:15,807 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:51) - Lanching browser :Chrome
+2022-02-07 16:37:13,213 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 16:37:14,699 +0530 [TestNG-tests-1] ERROR (TestBaseClass.java:62) - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6da3f912e0b5a700e22fb1bf3b55ff16, maximizeCurrentWindow {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49847}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49847/devtoo..., se:cdpVersion: 98.0.4758.81, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6da3f912e0b5a700e22fb1bf3b55ff16
+2022-02-07 16:37:15,088 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6da3f912e0b5a700e22fb1bf3b55ff16, findElement {using=xpath, value=//a[@href]//u[contains(text(),'new account')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49847}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49847/devtoo..., se:cdpVersion: 98.0.4758.81, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6da3f912e0b5a700e22fb1bf3b55ff16
+2022-02-07 16:37:15,299 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6da3f912e0b5a700e22fb1bf3b55ff16, findElement {using=xpath, value=//a[@href='http://in.rediff.com/disclaim.htm']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49847}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49847/devtoo..., se:cdpVersion: 98.0.4758.81, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6da3f912e0b5a700e22fb1bf3b55ff16
+2022-02-07 16:37:15,329 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6da3f912e0b5a700e22fb1bf3b55ff16, findElement {using=xpath, value=//a[@href]//u[contains(text(),'Forgot')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49847}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49847/devtoo..., se:cdpVersion: 98.0.4758.81, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6da3f912e0b5a700e22fb1bf3b55ff16
+2022-02-07 16:37:15,359 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6da3f912e0b5a700e22fb1bf3b55ff16, findElement {using=xpath, value=//a[@href='http://www.rediff.com/w3c/policy.html']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49847}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49847/devtoo..., se:cdpVersion: 98.0.4758.81, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6da3f912e0b5a700e22fb1bf3b55ff16
+2022-02-07 16:37:15,399 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6da3f912e0b5a700e22fb1bf3b55ff16, findElement {using=xpath, value=//input[contains(@title,'Sign in')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49847}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49847/devtoo..., se:cdpVersion: 98.0.4758.81, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6da3f912e0b5a700e22fb1bf3b55ff16
+2022-02-07 16:37:15,426 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6da3f912e0b5a700e22fb1bf3b55ff16, findElement {using=xpath, value=//input[contains(@id,'login')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49847}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49847/devtoo..., se:cdpVersion: 98.0.4758.81, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6da3f912e0b5a700e22fb1bf3b55ff16
+2022-02-07 16:37:15,461 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6da3f912e0b5a700e22fb1bf3b55ff16, findElement {using=xpath, value=//input[contains(@id,'password')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49847}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49847/devtoo..., se:cdpVersion: 98.0.4758.81, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6da3f912e0b5a700e22fb1bf3b55ff16
+2022-02-07 16:37:15,496 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6da3f912e0b5a700e22fb1bf3b55ff16, findElement {using=xpath, value=//input[contains(@id,'remember')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49847}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49847/devtoo..., se:cdpVersion: 98.0.4758.81, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6da3f912e0b5a700e22fb1bf3b55ff16
+2022-02-07 16:37:15,757 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 16:37:19,989 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:89) - Lanching browser :EDGE
+2022-02-07 16:37:21,927 +0530 [TestNG-tests-1] ERROR (TestBaseClass.java:93) - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=98.0.1108.43)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [ed37cebdea230b32b4083f6e7240c60f, maximizeCurrentWindow {}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 98.0.1108.43, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:49883}, msedge: {msedgedriverVersion: 98.0.1108.43 (291a4aac9d385..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49883/devtoo..., se:cdpVersion: 98.0.1108.43, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ed37cebdea230b32b4083f6e7240c60f
+2022-02-07 16:37:21,952 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=98.0.1108.43)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [ed37cebdea230b32b4083f6e7240c60f, findElement {using=xpath, value=//a[@href]//u[contains(text(),'new account')]}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 98.0.1108.43, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:49883}, msedge: {msedgedriverVersion: 98.0.1108.43 (291a4aac9d385..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49883/devtoo..., se:cdpVersion: 98.0.1108.43, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ed37cebdea230b32b4083f6e7240c60f
+2022-02-07 16:37:22,011 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=98.0.1108.43)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [ed37cebdea230b32b4083f6e7240c60f, findElement {using=xpath, value=//a[@href='http://in.rediff.com/disclaim.htm']}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 98.0.1108.43, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:49883}, msedge: {msedgedriverVersion: 98.0.1108.43 (291a4aac9d385..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49883/devtoo..., se:cdpVersion: 98.0.1108.43, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ed37cebdea230b32b4083f6e7240c60f
+2022-02-07 16:37:22,033 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=98.0.1108.43)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [ed37cebdea230b32b4083f6e7240c60f, findElement {using=xpath, value=//a[@href]//u[contains(text(),'Forgot')]}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 98.0.1108.43, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:49883}, msedge: {msedgedriverVersion: 98.0.1108.43 (291a4aac9d385..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49883/devtoo..., se:cdpVersion: 98.0.1108.43, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ed37cebdea230b32b4083f6e7240c60f
+2022-02-07 16:37:22,093 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=98.0.1108.43)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [ed37cebdea230b32b4083f6e7240c60f, findElement {using=xpath, value=//a[@href='http://www.rediff.com/w3c/policy.html']}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 98.0.1108.43, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:49883}, msedge: {msedgedriverVersion: 98.0.1108.43 (291a4aac9d385..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49883/devtoo..., se:cdpVersion: 98.0.1108.43, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ed37cebdea230b32b4083f6e7240c60f
+2022-02-07 16:37:22,131 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=98.0.1108.43)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [ed37cebdea230b32b4083f6e7240c60f, findElement {using=xpath, value=//input[contains(@title,'Sign in')]}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 98.0.1108.43, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:49883}, msedge: {msedgedriverVersion: 98.0.1108.43 (291a4aac9d385..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49883/devtoo..., se:cdpVersion: 98.0.1108.43, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ed37cebdea230b32b4083f6e7240c60f
+2022-02-07 16:37:22,175 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=98.0.1108.43)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [ed37cebdea230b32b4083f6e7240c60f, findElement {using=xpath, value=//input[contains(@id,'login')]}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 98.0.1108.43, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:49883}, msedge: {msedgedriverVersion: 98.0.1108.43 (291a4aac9d385..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49883/devtoo..., se:cdpVersion: 98.0.1108.43, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ed37cebdea230b32b4083f6e7240c60f
+2022-02-07 16:37:22,205 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=98.0.1108.43)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [ed37cebdea230b32b4083f6e7240c60f, findElement {using=xpath, value=//input[contains(@id,'password')]}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 98.0.1108.43, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:49883}, msedge: {msedgedriverVersion: 98.0.1108.43 (291a4aac9d385..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49883/devtoo..., se:cdpVersion: 98.0.1108.43, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ed37cebdea230b32b4083f6e7240c60f
+2022-02-07 16:37:22,233 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=98.0.1108.43)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [ed37cebdea230b32b4083f6e7240c60f, findElement {using=xpath, value=//input[contains(@id,'remember')]}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 98.0.1108.43, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:49883}, msedge: {msedgedriverVersion: 98.0.1108.43 (291a4aac9d385..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49883/devtoo..., se:cdpVersion: 98.0.1108.43, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ed37cebdea230b32b4083f6e7240c60f
+2022-02-07 16:37:22,515 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 16:37:44,507 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 16:38:16,792 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 16:38:52,968 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 16:38:58,318 +0530 [main] INFO  (TestBaseClass.java:125) - Email report sent
+2022-02-07 16:39:31,749 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 16:39:37,670 +0530 [TestNG-tests-1] INFO  (DataReader.java:95) - Number OF Row in SHeet :336
+2022-02-07 16:39:37,671 +0530 [TestNG-tests-1] INFO  (DataReader.java:104) - Number OF Row in SHeet :336
+2022-02-07 16:39:37,672 +0530 [TestNG-tests-1] INFO  (DataReader.java:105) - Number OF COLS in SHeet :125
+2022-02-07 16:39:37,696 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :336
+2022-02-07 16:39:37,696 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :336
+2022-02-07 16:39:37,697 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :336
+2022-02-07 16:39:37,697 +0530 [TestNG-tests-1] INFO  (DataReader.java:120) - Found DATA in COL :3
+2022-02-07 16:39:38,519 +0530 [TestNG-tests-1] INFO  (DataReader.java:95) - Number OF Row in SHeet :336
+2022-02-07 16:39:38,521 +0530 [TestNG-tests-1] INFO  (DataReader.java:104) - Number OF Row in SHeet :336
+2022-02-07 16:39:38,522 +0530 [TestNG-tests-1] INFO  (DataReader.java:105) - Number OF COLS in SHeet :125
+2022-02-07 16:39:38,543 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :336
+2022-02-07 16:39:38,544 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :336
+2022-02-07 16:39:38,544 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :336
+2022-02-07 16:39:38,544 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :336
+2022-02-07 16:39:38,545 +0530 [TestNG-tests-1] INFO  (DataReader.java:120) - Found DATA in COL :4
+2022-02-07 16:39:38,555 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:70) - Exception Message :Input must be set
+2022-02-07 16:39:38,556 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:71) - Element Details: By.xpath: //input[contains(@id,'login')]
+2022-02-07 16:39:38,556 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:50) - Exception Message :Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+2022-02-07 16:39:38,557 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:51) - Element Details: By.xpath: //input[contains(@id,'login')]
+2022-02-07 16:39:38,558 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:70) - Exception Message :Input must be set
+2022-02-07 16:39:38,558 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:71) - Element Details: By.xpath: //input[contains(@id,'password')]
+2022-02-07 16:39:38,559 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:50) - Exception Message :Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+2022-02-07 16:39:38,559 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:51) - Element Details: By.xpath: //input[contains(@id,'password')]
+2022-02-07 16:39:38,560 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:81) - Exception Message :Input must be set
+2022-02-07 16:39:38,560 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:82) - Element Details: By.xpath: //input[contains(@title,'Sign in')]
+2022-02-07 16:39:38,562 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:60) - Exception Message :Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+2022-02-07 16:39:38,563 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:61) - Element Details: By.xpath: //input[contains(@title,'Sign in')]
+2022-02-07 16:39:38,564 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:70) - Exception Message :Input must be set
+2022-02-07 16:39:38,564 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:71) - Element Details: By.xpath: //a[text()='Logout']
+2022-02-07 16:39:38,565 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+2022-02-07 16:39:39,054 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 16:39:43,704 +0530 [main] INFO  (TestBaseClass.java:125) - Email report sent
+2022-02-07 16:42:59,612 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 16:43:04,639 +0530 [TestNG-tests-1] INFO  (DataReader.java:95) - Number OF Row in SHeet :342
+2022-02-07 16:43:04,646 +0530 [TestNG-tests-1] INFO  (DataReader.java:104) - Number OF Row in SHeet :342
+2022-02-07 16:43:04,646 +0530 [TestNG-tests-1] INFO  (DataReader.java:105) - Number OF COLS in SHeet :125
+2022-02-07 16:43:04,671 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :342
+2022-02-07 16:43:04,672 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :342
+2022-02-07 16:43:04,673 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :342
+2022-02-07 16:43:04,673 +0530 [TestNG-tests-1] INFO  (DataReader.java:120) - Found DATA in COL :3
+2022-02-07 16:43:06,947 +0530 [TestNG-tests-1] INFO  (DataReader.java:95) - Number OF Row in SHeet :342
+2022-02-07 16:43:06,949 +0530 [TestNG-tests-1] INFO  (DataReader.java:104) - Number OF Row in SHeet :342
+2022-02-07 16:43:06,950 +0530 [TestNG-tests-1] INFO  (DataReader.java:105) - Number OF COLS in SHeet :125
+2022-02-07 16:43:06,958 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :342
+2022-02-07 16:43:06,962 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :342
+2022-02-07 16:43:06,963 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :342
+2022-02-07 16:43:06,963 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :342
+2022-02-07 16:43:06,963 +0530 [TestNG-tests-1] INFO  (DataReader.java:120) - Found DATA in COL :4
+2022-02-07 16:43:07,052 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:70) - Exception Message :Input must be set
+2022-02-07 16:43:07,052 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:71) - Element Details: By.xpath: //input[contains(@id,'login')]
+2022-02-07 16:43:07,053 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:50) - Exception Message :Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+2022-02-07 16:43:07,053 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:51) - Element Details: By.xpath: //input[contains(@id,'login')]
+2022-02-07 16:43:07,054 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:70) - Exception Message :Input must be set
+2022-02-07 16:43:07,055 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:71) - Element Details: By.xpath: //input[contains(@id,'password')]
+2022-02-07 16:43:07,055 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:50) - Exception Message :Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+2022-02-07 16:43:07,055 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:51) - Element Details: By.xpath: //input[contains(@id,'password')]
+2022-02-07 16:43:07,056 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:81) - Exception Message :Input must be set
+2022-02-07 16:43:07,057 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:82) - Element Details: By.xpath: //input[contains(@title,'Sign in')]
+2022-02-07 16:43:07,057 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:60) - Exception Message :Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+2022-02-07 16:43:07,058 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:61) - Element Details: By.xpath: //input[contains(@title,'Sign in')]
+2022-02-07 16:43:07,060 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:70) - Exception Message :Input must be set
+2022-02-07 16:43:07,061 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:71) - Element Details: By.xpath: //a[text()='Logout']
+2022-02-07 16:43:07,061 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+2022-02-07 16:43:08,419 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 16:43:13,330 +0530 [main] INFO  (TestBaseClass.java:125) - Email report sent
+2022-02-07 16:58:06,795 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 16:58:08,178 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:36) - Sedning Class Name AS: common.RediffMail.Test.VerifyObjectsOfUserHomePage
+2022-02-07 16:58:11,258 +0530 [TestNG-tests-1] INFO  (DataReader.java:95) - Number OF Row in SHeet :342
+2022-02-07 16:58:11,260 +0530 [TestNG-tests-1] INFO  (DataReader.java:104) - Number OF Row in SHeet :342
+2022-02-07 16:58:11,260 +0530 [TestNG-tests-1] INFO  (DataReader.java:105) - Number OF COLS in SHeet :125
+2022-02-07 16:58:11,285 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :342
+2022-02-07 16:58:11,286 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :342
+2022-02-07 16:58:11,286 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :342
+2022-02-07 16:58:11,287 +0530 [TestNG-tests-1] INFO  (DataReader.java:120) - Found DATA in COL :3
+2022-02-07 16:58:12,388 +0530 [TestNG-tests-1] INFO  (DataReader.java:95) - Number OF Row in SHeet :342
+2022-02-07 16:58:12,389 +0530 [TestNG-tests-1] INFO  (DataReader.java:104) - Number OF Row in SHeet :342
+2022-02-07 16:58:12,390 +0530 [TestNG-tests-1] INFO  (DataReader.java:105) - Number OF COLS in SHeet :125
+2022-02-07 16:58:12,398 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :342
+2022-02-07 16:58:12,399 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :342
+2022-02-07 16:58:12,399 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :342
+2022-02-07 16:58:12,400 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :342
+2022-02-07 16:58:12,404 +0530 [TestNG-tests-1] INFO  (DataReader.java:120) - Found DATA in COL :4
+2022-02-07 16:58:12,412 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:70) - Exception Message :Input must be set
+2022-02-07 16:58:12,413 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:71) - Element Details: By.xpath: //input[contains(@id,'login')]
+2022-02-07 16:58:12,413 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:50) - Exception Message :Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+2022-02-07 16:58:12,413 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:51) - Element Details: By.xpath: //input[contains(@id,'login')]
+2022-02-07 16:58:12,414 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:70) - Exception Message :Input must be set
+2022-02-07 16:58:12,415 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:71) - Element Details: By.xpath: //input[contains(@id,'password')]
+2022-02-07 16:58:12,415 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:50) - Exception Message :Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+2022-02-07 16:58:12,415 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:51) - Element Details: By.xpath: //input[contains(@id,'password')]
+2022-02-07 16:58:12,416 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:81) - Exception Message :Input must be set
+2022-02-07 16:58:12,416 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:82) - Element Details: By.xpath: //input[contains(@title,'Sign in')]
+2022-02-07 16:58:12,417 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:60) - Exception Message :Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+2022-02-07 16:58:12,417 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:61) - Element Details: By.xpath: //input[contains(@title,'Sign in')]
+2022-02-07 16:58:12,419 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:70) - Exception Message :Input must be set
+2022-02-07 16:58:12,419 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:71) - Element Details: By.xpath: //a[text()='Logout']
+2022-02-07 16:58:12,420 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+2022-02-07 16:58:13,175 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 16:58:18,029 +0530 [main] INFO  (TestBaseClass.java:125) - Email report sent
+2022-02-07 16:58:47,917 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 16:58:49,533 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:36) - Sedning Class Name AS: common.RediffMail.Test.VerifyObjectsOfUserHomePage
+2022-02-07 16:58:53,411 +0530 [TestNG-tests-1] INFO  (DataReader.java:95) - Number OF Row in SHeet :342
+2022-02-07 16:58:53,413 +0530 [TestNG-tests-1] INFO  (DataReader.java:104) - Number OF Row in SHeet :342
+2022-02-07 16:58:53,413 +0530 [TestNG-tests-1] INFO  (DataReader.java:105) - Number OF COLS in SHeet :125
+2022-02-07 16:58:53,445 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :342
+2022-02-07 16:58:53,446 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :342
+2022-02-07 16:58:53,446 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :342
+2022-02-07 16:58:53,447 +0530 [TestNG-tests-1] INFO  (DataReader.java:120) - Found DATA in COL :3
+2022-02-07 16:58:54,706 +0530 [TestNG-tests-1] INFO  (DataReader.java:95) - Number OF Row in SHeet :342
+2022-02-07 16:58:54,707 +0530 [TestNG-tests-1] INFO  (DataReader.java:104) - Number OF Row in SHeet :342
+2022-02-07 16:58:54,707 +0530 [TestNG-tests-1] INFO  (DataReader.java:105) - Number OF COLS in SHeet :125
+2022-02-07 16:58:54,715 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :342
+2022-02-07 16:58:54,716 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :342
+2022-02-07 16:58:54,716 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :342
+2022-02-07 16:58:54,717 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :342
+2022-02-07 16:58:54,718 +0530 [TestNG-tests-1] INFO  (DataReader.java:120) - Found DATA in COL :4
+2022-02-07 16:58:54,726 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:70) - Exception Message :Input must be set
+2022-02-07 16:58:54,726 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:71) - Element Details: By.xpath: //input[contains(@id,'login')]
+2022-02-07 16:58:54,727 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:50) - Exception Message :Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+2022-02-07 16:58:54,727 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:51) - Element Details: By.xpath: //input[contains(@id,'login')]
+2022-02-07 16:58:54,728 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:70) - Exception Message :Input must be set
+2022-02-07 16:58:54,729 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:71) - Element Details: By.xpath: //input[contains(@id,'password')]
+2022-02-07 16:58:54,729 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:50) - Exception Message :Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+2022-02-07 16:58:54,729 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:51) - Element Details: By.xpath: //input[contains(@id,'password')]
+2022-02-07 16:58:54,730 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:81) - Exception Message :Input must be set
+2022-02-07 16:58:54,731 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:82) - Element Details: By.xpath: //input[contains(@title,'Sign in')]
+2022-02-07 16:58:54,731 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:60) - Exception Message :Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+2022-02-07 16:58:54,731 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:61) - Element Details: By.xpath: //input[contains(@title,'Sign in')]
+2022-02-07 16:58:54,732 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:70) - Exception Message :Input must be set
+2022-02-07 16:58:54,733 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:71) - Element Details: By.xpath: //a[text()='Logout']
+2022-02-07 16:58:54,733 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+2022-02-07 16:58:55,526 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 16:58:59,938 +0530 [main] INFO  (TestBaseClass.java:125) - Email report sent
+2022-02-07 17:00:08,615 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 17:00:10,133 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:36) - Sedning Class Name AS: VerifyObjectsOfUserHomePage
+2022-02-07 17:00:13,623 +0530 [TestNG-tests-1] INFO  (DataReader.java:95) - Number OF Row in SHeet :342
+2022-02-07 17:00:13,624 +0530 [TestNG-tests-1] INFO  (DataReader.java:104) - Number OF Row in SHeet :342
+2022-02-07 17:00:13,625 +0530 [TestNG-tests-1] INFO  (DataReader.java:105) - Number OF COLS in SHeet :125
+2022-02-07 17:00:13,639 +0530 [TestNG-tests-1] INFO  (DataReader.java:111) - Found TC in ROW :2
+2022-02-07 17:00:13,640 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :2
+2022-02-07 17:00:13,641 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :2
+2022-02-07 17:00:13,641 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :2
+2022-02-07 17:00:13,642 +0530 [TestNG-tests-1] INFO  (DataReader.java:120) - Found DATA in COL :3
+2022-02-07 17:00:13,643 +0530 [TestNG-tests-1] INFO  (DataReader.java:129) - DATA IS raghavhsp@rediffmail.com
+2022-02-07 17:00:15,574 +0530 [TestNG-tests-1] INFO  (DataReader.java:95) - Number OF Row in SHeet :342
+2022-02-07 17:00:15,575 +0530 [TestNG-tests-1] INFO  (DataReader.java:104) - Number OF Row in SHeet :342
+2022-02-07 17:00:15,576 +0530 [TestNG-tests-1] INFO  (DataReader.java:105) - Number OF COLS in SHeet :125
+2022-02-07 17:00:15,578 +0530 [TestNG-tests-1] INFO  (DataReader.java:111) - Found TC in ROW :2
+2022-02-07 17:00:15,578 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :2
+2022-02-07 17:00:15,580 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :2
+2022-02-07 17:00:15,581 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :2
+2022-02-07 17:00:15,582 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :2
+2022-02-07 17:00:15,583 +0530 [TestNG-tests-1] INFO  (DataReader.java:120) - Found DATA in COL :4
+2022-02-07 17:00:15,583 +0530 [TestNG-tests-1] INFO  (DataReader.java:129) - DATA IS Gagu255245@
+2022-02-07 17:00:15,591 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:70) - Exception Message :Input must be set
+2022-02-07 17:00:15,592 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:71) - Element Details: By.xpath: //input[contains(@id,'login')]
+2022-02-07 17:00:15,592 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:50) - Exception Message :Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+2022-02-07 17:00:15,593 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:51) - Element Details: By.xpath: //input[contains(@id,'login')]
+2022-02-07 17:00:15,594 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:70) - Exception Message :Input must be set
+2022-02-07 17:00:15,594 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:71) - Element Details: By.xpath: //input[contains(@id,'password')]
+2022-02-07 17:00:15,595 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:50) - Exception Message :Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+2022-02-07 17:00:15,595 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:51) - Element Details: By.xpath: //input[contains(@id,'password')]
+2022-02-07 17:00:15,596 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:81) - Exception Message :Input must be set
+2022-02-07 17:00:15,596 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:82) - Element Details: By.xpath: //input[contains(@title,'Sign in')]
+2022-02-07 17:00:15,596 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:60) - Exception Message :Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+2022-02-07 17:00:15,597 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:61) - Element Details: By.xpath: //input[contains(@title,'Sign in')]
+2022-02-07 17:00:15,597 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:70) - Exception Message :Input must be set
+2022-02-07 17:00:15,598 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:71) - Element Details: By.xpath: //a[text()='Logout']
+2022-02-07 17:00:15,598 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+2022-02-07 17:00:16,627 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 17:00:20,921 +0530 [main] INFO  (TestBaseClass.java:125) - Email report sent
+2022-02-07 17:10:49,839 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 17:10:51,533 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:36) - Sedning Class Name AS: VerifyObjectsOfUserHomePage
+2022-02-07 17:10:54,971 +0530 [TestNG-tests-1] INFO  (DataReader.java:95) - Number OF Row in SHeet :342
+2022-02-07 17:10:54,973 +0530 [TestNG-tests-1] INFO  (DataReader.java:104) - Number OF Row in SHeet :342
+2022-02-07 17:10:54,974 +0530 [TestNG-tests-1] INFO  (DataReader.java:105) - Number OF COLS in SHeet :125
+2022-02-07 17:10:54,985 +0530 [TestNG-tests-1] INFO  (DataReader.java:111) - Found TC in ROW :2
+2022-02-07 17:10:54,986 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :2
+2022-02-07 17:10:54,987 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :2
+2022-02-07 17:10:54,989 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :2
+2022-02-07 17:10:54,989 +0530 [TestNG-tests-1] INFO  (DataReader.java:120) - Found DATA in COL :3
+2022-02-07 17:10:54,990 +0530 [TestNG-tests-1] INFO  (DataReader.java:129) - DATA IS raghavhsp@rediffmail.com
+2022-02-07 17:10:56,778 +0530 [TestNG-tests-1] INFO  (DataReader.java:95) - Number OF Row in SHeet :342
+2022-02-07 17:10:56,780 +0530 [TestNG-tests-1] INFO  (DataReader.java:104) - Number OF Row in SHeet :342
+2022-02-07 17:10:56,781 +0530 [TestNG-tests-1] INFO  (DataReader.java:105) - Number OF COLS in SHeet :125
+2022-02-07 17:10:56,782 +0530 [TestNG-tests-1] INFO  (DataReader.java:111) - Found TC in ROW :2
+2022-02-07 17:10:56,783 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :2
+2022-02-07 17:10:56,787 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :2
+2022-02-07 17:10:56,788 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :2
+2022-02-07 17:10:56,789 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :2
+2022-02-07 17:10:56,792 +0530 [TestNG-tests-1] INFO  (DataReader.java:120) - Found DATA in COL :4
+2022-02-07 17:10:56,792 +0530 [TestNG-tests-1] INFO  (DataReader.java:129) - DATA IS Gagu255245@
+2022-02-07 17:10:56,793 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:39) - userName =: raghavhsp@rediffmail.com Password : Gagu255245@
+2022-02-07 17:10:56,889 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:70) - Exception Message :Input must be set
+2022-02-07 17:10:56,890 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:71) - Element Details: By.xpath: //input[contains(@id,'login')]
+2022-02-07 17:10:56,891 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:50) - Exception Message :Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+2022-02-07 17:10:56,891 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:51) - Element Details: By.xpath: //input[contains(@id,'login')]
+2022-02-07 17:10:56,893 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:70) - Exception Message :Input must be set
+2022-02-07 17:10:56,893 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:71) - Element Details: By.xpath: //input[contains(@id,'password')]
+2022-02-07 17:10:56,894 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:50) - Exception Message :Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+2022-02-07 17:10:56,894 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:51) - Element Details: By.xpath: //input[contains(@id,'password')]
+2022-02-07 17:10:56,895 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:81) - Exception Message :Input must be set
+2022-02-07 17:10:56,895 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:82) - Element Details: By.xpath: //input[contains(@title,'Sign in')]
+2022-02-07 17:10:56,897 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:60) - Exception Message :Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+2022-02-07 17:10:56,897 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:61) - Element Details: By.xpath: //input[contains(@title,'Sign in')]
+2022-02-07 17:10:56,898 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:70) - Exception Message :Input must be set
+2022-02-07 17:10:56,899 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:71) - Element Details: By.xpath: //a[text()='Logout']
+2022-02-07 17:10:56,902 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+2022-02-07 17:10:57,581 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 17:11:01,920 +0530 [main] INFO  (TestBaseClass.java:125) - Email report sent
+2022-02-07 17:15:05,245 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 17:15:06,629 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:36) - Sedning Class Name AS: VerifyObjectsOfUserHomePage
+2022-02-07 17:15:10,248 +0530 [TestNG-tests-1] INFO  (DataReader.java:95) - Number OF Row in SHeet :342
+2022-02-07 17:15:10,250 +0530 [TestNG-tests-1] INFO  (DataReader.java:104) - Number OF Row in SHeet :342
+2022-02-07 17:15:10,250 +0530 [TestNG-tests-1] INFO  (DataReader.java:105) - Number OF COLS in SHeet :125
+2022-02-07 17:15:10,296 +0530 [TestNG-tests-1] INFO  (DataReader.java:111) - Found TC in ROW :2
+2022-02-07 17:15:10,297 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :2
+2022-02-07 17:15:10,298 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :2
+2022-02-07 17:15:10,300 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :2
+2022-02-07 17:15:10,302 +0530 [TestNG-tests-1] INFO  (DataReader.java:120) - Found DATA in COL :3
+2022-02-07 17:15:10,304 +0530 [TestNG-tests-1] INFO  (DataReader.java:129) - DATA IS raghavhsp@rediffmail.com
+2022-02-07 17:15:11,630 +0530 [TestNG-tests-1] INFO  (DataReader.java:95) - Number OF Row in SHeet :342
+2022-02-07 17:15:11,631 +0530 [TestNG-tests-1] INFO  (DataReader.java:104) - Number OF Row in SHeet :342
+2022-02-07 17:15:11,632 +0530 [TestNG-tests-1] INFO  (DataReader.java:105) - Number OF COLS in SHeet :125
+2022-02-07 17:15:11,634 +0530 [TestNG-tests-1] INFO  (DataReader.java:111) - Found TC in ROW :2
+2022-02-07 17:15:11,634 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :2
+2022-02-07 17:15:11,636 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :2
+2022-02-07 17:15:11,637 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :2
+2022-02-07 17:15:11,637 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :2
+2022-02-07 17:15:11,638 +0530 [TestNG-tests-1] INFO  (DataReader.java:120) - Found DATA in COL :4
+2022-02-07 17:15:11,639 +0530 [TestNG-tests-1] INFO  (DataReader.java:129) - DATA IS Gagu255245@
+2022-02-07 17:15:11,639 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:39) - userName =: raghavhsp@rediffmail.com Password : Gagu255245@
+2022-02-07 17:15:19,713 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:70) - Exception Message :Expected condition failed: waiting for visibility of all elements located by By.xpath: //a[text()='Logout'] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:50646}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50646/devtoo..., se:cdpVersion: 98.0.4758.81, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d9aad0399ce0315c4a9475806d359853
+2022-02-07 17:15:19,714 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:71) - Element Details: By.xpath: //a[text()='Logout']
+2022-02-07 17:15:22,093 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :Unable to find element with locator By.xpath: //a[text()='Logout']
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: driver.version: RemoteWebDriver
+2022-02-07 17:15:22,569 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 17:15:26,831 +0530 [main] INFO  (TestBaseClass.java:125) - Email report sent
+2022-02-07 17:17:01,935 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 17:17:03,582 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:36) - Sedning Class Name AS: VerifyObjectsOfUserHomePage
+2022-02-07 17:17:06,705 +0530 [TestNG-tests-1] INFO  (DataReader.java:95) - Number OF Row in SHeet :342
+2022-02-07 17:17:06,708 +0530 [TestNG-tests-1] INFO  (DataReader.java:104) - Number OF Row in SHeet :342
+2022-02-07 17:17:06,709 +0530 [TestNG-tests-1] INFO  (DataReader.java:105) - Number OF COLS in SHeet :125
+2022-02-07 17:17:06,719 +0530 [TestNG-tests-1] INFO  (DataReader.java:111) - Found TC in ROW :2
+2022-02-07 17:17:06,720 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :2
+2022-02-07 17:17:06,720 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :2
+2022-02-07 17:17:06,722 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :2
+2022-02-07 17:17:06,723 +0530 [TestNG-tests-1] INFO  (DataReader.java:120) - Found DATA in COL :3
+2022-02-07 17:17:06,724 +0530 [TestNG-tests-1] INFO  (DataReader.java:129) - DATA IS raghavhsp@rediffmail.com
+2022-02-07 17:17:07,737 +0530 [TestNG-tests-1] INFO  (DataReader.java:95) - Number OF Row in SHeet :342
+2022-02-07 17:17:07,738 +0530 [TestNG-tests-1] INFO  (DataReader.java:104) - Number OF Row in SHeet :342
+2022-02-07 17:17:07,739 +0530 [TestNG-tests-1] INFO  (DataReader.java:105) - Number OF COLS in SHeet :125
+2022-02-07 17:17:07,741 +0530 [TestNG-tests-1] INFO  (DataReader.java:111) - Found TC in ROW :2
+2022-02-07 17:17:07,742 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :2
+2022-02-07 17:17:07,744 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :2
+2022-02-07 17:17:07,745 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :2
+2022-02-07 17:17:07,745 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Loading ROW :2
+2022-02-07 17:17:07,746 +0530 [TestNG-tests-1] INFO  (DataReader.java:120) - Found DATA in COL :4
+2022-02-07 17:17:07,746 +0530 [TestNG-tests-1] INFO  (DataReader.java:129) - DATA IS Gagu255245@
+2022-02-07 17:17:07,746 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:39) - userName =: raghavhsp@rediffmail.com Password : Gagu255245@
+2022-02-07 17:17:11,011 +0530 [TestNG-tests-1] INFO  (LoginPageFuntions.java:34) - Login into application : SUCCESSFULL
+2022-02-07 17:17:16,773 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 17:17:21,087 +0530 [main] INFO  (TestBaseClass.java:125) - Email report sent
+2022-02-07 17:29:21,020 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 17:29:22,778 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:36) - Sedning Class Name AS: VerifyObjectsOfUserHomePage
+2022-02-07 17:29:26,938 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TC in ROW :2
+2022-02-07 17:29:26,938 +0530 [TestNG-tests-1] INFO  (DataReader.java:115) - Loading ROW :2
+2022-02-07 17:29:26,939 +0530 [TestNG-tests-1] INFO  (DataReader.java:115) - Loading ROW :2
+2022-02-07 17:29:26,940 +0530 [TestNG-tests-1] INFO  (DataReader.java:115) - Loading ROW :2
+2022-02-07 17:29:26,940 +0530 [TestNG-tests-1] INFO  (DataReader.java:118) - Found DATA in COL :31
+2022-02-07 17:29:26,941 +0530 [TestNG-tests-1] INFO  (DataReader.java:127) - DATA IS raghavhsp@rediffmail.com
+2022-02-07 17:29:28,244 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TC in ROW :2
+2022-02-07 17:29:28,245 +0530 [TestNG-tests-1] INFO  (DataReader.java:115) - Loading ROW :2
+2022-02-07 17:29:28,245 +0530 [TestNG-tests-1] INFO  (DataReader.java:115) - Loading ROW :2
+2022-02-07 17:29:28,246 +0530 [TestNG-tests-1] INFO  (DataReader.java:115) - Loading ROW :2
+2022-02-07 17:29:28,247 +0530 [TestNG-tests-1] INFO  (DataReader.java:115) - Loading ROW :2
+2022-02-07 17:29:28,247 +0530 [TestNG-tests-1] INFO  (DataReader.java:118) - Found DATA in COL :41
+2022-02-07 17:29:28,247 +0530 [TestNG-tests-1] INFO  (DataReader.java:127) - DATA IS Gagu255245@
+2022-02-07 17:29:28,248 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:39) - userName =: raghavhsp@rediffmail.com Password : Gagu255245@
+2022-02-07 17:29:34,527 +0530 [TestNG-tests-1] INFO  (LoginPageFuntions.java:34) - Login into application : SUCCESSFULL
+2022-02-07 17:29:42,088 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 17:30:40,807 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 17:30:42,546 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:36) - Sedning Class Name AS: VerifyObjectsOfUserHomePage
+2022-02-07 17:30:46,195 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TC in ROW :2
+2022-02-07 17:30:46,195 +0530 [TestNG-tests-1] INFO  (DataReader.java:115) - Loading ROW :2
+2022-02-07 17:30:46,196 +0530 [TestNG-tests-1] INFO  (DataReader.java:115) - Loading ROW :2
+2022-02-07 17:30:46,196 +0530 [TestNG-tests-1] INFO  (DataReader.java:115) - Loading ROW :2
+2022-02-07 17:30:46,197 +0530 [TestNG-tests-1] INFO  (DataReader.java:118) - Found DATA in COL :4
+2022-02-07 17:30:46,198 +0530 [TestNG-tests-1] INFO  (DataReader.java:127) - DATA IS raghavhsp@rediffmail.com
+2022-02-07 17:30:47,550 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TC in ROW :2
+2022-02-07 17:30:47,552 +0530 [TestNG-tests-1] INFO  (DataReader.java:115) - Loading ROW :2
+2022-02-07 17:30:47,552 +0530 [TestNG-tests-1] INFO  (DataReader.java:115) - Loading ROW :2
+2022-02-07 17:30:47,553 +0530 [TestNG-tests-1] INFO  (DataReader.java:115) - Loading ROW :2
+2022-02-07 17:30:47,555 +0530 [TestNG-tests-1] INFO  (DataReader.java:115) - Loading ROW :2
+2022-02-07 17:30:47,556 +0530 [TestNG-tests-1] INFO  (DataReader.java:118) - Found DATA in COL :5
+2022-02-07 17:30:47,556 +0530 [TestNG-tests-1] INFO  (DataReader.java:127) - DATA IS Gagu255245@
+2022-02-07 17:30:47,557 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:39) - userName =: raghavhsp@rediffmail.com Password : Gagu255245@
+2022-02-07 17:30:55,308 +0530 [TestNG-tests-1] INFO  (LoginPageFuntions.java:34) - Login into application : SUCCESSFULL
+2022-02-07 17:31:00,728 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 17:31:05,790 +0530 [main] INFO  (TestBaseClass.java:125) - Email report sent
+2022-02-07 17:43:09,808 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 17:43:16,738 +0530 [TestNG-tests-1] INFO  (DataReader.java:116) - Found DATA in COL :4
+2022-02-07 17:43:16,755 +0530 [TestNG-tests-1] ERROR (DataReader.java:139) - Cannot invoke "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" because "row" is null
+2022-02-07 17:43:19,214 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:50) - Exception Message :Keys to send should be a not null CharSequence
+2022-02-07 17:43:19,214 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:51) - Element Details: By.xpath: //input[contains(@id,'login')]
+2022-02-07 17:43:21,254 +0530 [TestNG-tests-1] INFO  (DataReader.java:116) - Found DATA in COL :5
+2022-02-07 17:43:21,255 +0530 [TestNG-tests-1] ERROR (DataReader.java:139) - Cannot invoke "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" because "row" is null
+2022-02-07 17:43:21,702 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:50) - Exception Message :Keys to send should be a not null CharSequence
+2022-02-07 17:43:21,703 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:51) - Element Details: By.xpath: //input[contains(@id,'password')]
+2022-02-07 17:43:22,053 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:70) - Exception Message :unexpected alert open: {Alert text : Please enter a valid user name}
+  (Session info: chrome=98.0.4758.81): Please enter a valid user name
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [789b603231179d04eb57e92fe0198400, findElements {using=xpath, value=//a[text()='Logout']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:65129}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65129/devtoo..., se:cdpVersion: 98.0.4758.81, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 789b603231179d04eb57e92fe0198400
+2022-02-07 17:43:22,062 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:71) - Element Details: By.xpath: //a[text()='Logout']
+2022-02-07 17:43:27,115 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Logout']"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [789b603231179d04eb57e92fe0198400, findElement {using=xpath, value=//a[text()='Logout']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:65129}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65129/devtoo..., se:cdpVersion: 98.0.4758.81, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 789b603231179d04eb57e92fe0198400
+2022-02-07 17:43:28,702 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 17:43:33,001 +0530 [main] INFO  (TestBaseClass.java:125) - Email report sent
+2022-02-07 17:46:36,411 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 17:46:41,104 +0530 [TestNG-tests-1] INFO  (DataReader.java:116) - Found DATA in COL :3
+2022-02-07 17:46:41,105 +0530 [TestNG-tests-1] ERROR (DataReader.java:139) - Cannot invoke "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" because "row" is null
+2022-02-07 17:46:41,579 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:50) - Exception Message :Keys to send should be a not null CharSequence
+2022-02-07 17:46:41,580 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:51) - Element Details: By.xpath: //input[contains(@id,'login')]
+2022-02-07 17:46:42,346 +0530 [TestNG-tests-1] INFO  (DataReader.java:116) - Found DATA in COL :4
+2022-02-07 17:46:42,347 +0530 [TestNG-tests-1] ERROR (DataReader.java:139) - Cannot invoke "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" because "row" is null
+2022-02-07 17:46:42,450 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:50) - Exception Message :Keys to send should be a not null CharSequence
+2022-02-07 17:46:42,451 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:51) - Element Details: By.xpath: //input[contains(@id,'password')]
+2022-02-07 17:46:42,751 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:70) - Exception Message :unexpected alert open: {Alert text : Please enter a valid user name}
+  (Session info: chrome=98.0.4758.81): Please enter a valid user name
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [74fd52c525814d1c1500a0020ed9aafb, findElements {using=xpath, value=//a[text()='Logout']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:65272}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65272/devtoo..., se:cdpVersion: 98.0.4758.81, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 74fd52c525814d1c1500a0020ed9aafb
+2022-02-07 17:46:42,752 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:71) - Element Details: By.xpath: //a[text()='Logout']
+2022-02-07 17:46:47,842 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Logout']"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [74fd52c525814d1c1500a0020ed9aafb, findElement {using=xpath, value=//a[text()='Logout']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:65272}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65272/devtoo..., se:cdpVersion: 98.0.4758.81, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 74fd52c525814d1c1500a0020ed9aafb
+2022-02-07 17:46:48,168 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 17:46:52,941 +0530 [main] INFO  (TestBaseClass.java:125) - Email report sent
+2022-02-07 17:48:08,308 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 17:48:12,635 +0530 [TestNG-tests-1] INFO  (DataReader.java:116) - Found DATA in COL :3
+2022-02-07 17:48:12,636 +0530 [TestNG-tests-1] ERROR (DataReader.java:139) - Cannot invoke "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" because "row" is null
+2022-02-07 17:48:13,347 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:50) - Exception Message :Keys to send should be a not null CharSequence
+2022-02-07 17:48:13,347 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:51) - Element Details: By.xpath: //input[contains(@id,'login')]
+2022-02-07 17:48:14,253 +0530 [TestNG-tests-1] INFO  (DataReader.java:116) - Found DATA in COL :4
+2022-02-07 17:48:14,254 +0530 [TestNG-tests-1] ERROR (DataReader.java:139) - Cannot invoke "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" because "row" is null
+2022-02-07 17:48:14,357 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:50) - Exception Message :Keys to send should be a not null CharSequence
+2022-02-07 17:48:14,358 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:51) - Element Details: By.xpath: //input[contains(@id,'password')]
+2022-02-07 17:48:14,590 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:70) - Exception Message :unexpected alert open: {Alert text : Please enter a valid user name}
+  (Session info: chrome=98.0.4758.81): Please enter a valid user name
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7185c14746fb6642f9e1fc41bfafbdb2, findElements {using=xpath, value=//a[text()='Logout']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:65337}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65337/devtoo..., se:cdpVersion: 98.0.4758.81, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7185c14746fb6642f9e1fc41bfafbdb2
+2022-02-07 17:48:14,592 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:71) - Element Details: By.xpath: //a[text()='Logout']
+2022-02-07 17:48:19,652 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Logout']"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7185c14746fb6642f9e1fc41bfafbdb2, findElement {using=xpath, value=//a[text()='Logout']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:65337}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65337/devtoo..., se:cdpVersion: 98.0.4758.81, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7185c14746fb6642f9e1fc41bfafbdb2
+2022-02-07 17:48:20,018 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 17:48:25,110 +0530 [main] INFO  (TestBaseClass.java:125) - Email report sent
+2022-02-07 17:52:23,758 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 17:52:29,628 +0530 [TestNG-tests-1] INFO  (DataReader.java:116) - Found DATA in COL :3
+2022-02-07 17:52:29,629 +0530 [TestNG-tests-1] INFO  (DataReader.java:125) - DATA IS raghavhsp@rediffmail.com
+2022-02-07 17:52:33,913 +0530 [TestNG-tests-1] INFO  (DataReader.java:116) - Found DATA in COL :4
+2022-02-07 17:52:33,914 +0530 [TestNG-tests-1] INFO  (DataReader.java:125) - DATA IS Gagu255245@
+2022-02-07 17:52:37,039 +0530 [TestNG-tests-1] INFO  (LoginPageFuntions.java:34) - Login into application : SUCCESSFULL
+2022-02-07 17:52:43,447 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 17:52:48,403 +0530 [main] INFO  (TestBaseClass.java:125) - Email report sent
+2022-02-07 17:56:21,065 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 17:56:27,190 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TestCase: 'VerifyObjectsOfUserHomePage' in rowNum :2
+2022-02-07 17:56:27,191 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Found Data: 'UserName' in colNum :4
+2022-02-07 17:56:27,191 +0530 [TestNG-tests-1] INFO  (DataReader.java:126) - DATA IS raghavhsp@rediffmail.com
+2022-02-07 17:56:28,566 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TestCase: 'VerifyObjectsOfUserHomePage' in rowNum :2
+2022-02-07 17:56:28,567 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Found Data: 'Password' in colNum :5
+2022-02-07 17:56:28,567 +0530 [TestNG-tests-1] INFO  (DataReader.java:126) - DATA IS Gagu255245@
+2022-02-07 17:56:34,886 +0530 [TestNG-tests-1] INFO  (LoginPageFuntions.java:34) - Login into application : SUCCESSFULL
+2022-02-07 17:56:39,811 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 17:56:44,433 +0530 [main] INFO  (TestBaseClass.java:125) - Email report sent
+2022-02-07 18:01:12,071 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 18:01:17,226 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TestCase: 'VerifyObjectsOfUserHomePage' in rowNum :2
+2022-02-07 18:01:17,227 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Found Data: 'UserName' in colNum :4
+2022-02-07 18:01:17,228 +0530 [TestNG-tests-1] INFO  (DataReader.java:126) - Data @ row[2]col[4] :raghavhsp@rediffmail.com
+2022-02-07 18:01:18,827 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TestCase: 'VerifyObjectsOfUserHomePage' in rowNum :2
+2022-02-07 18:01:18,828 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Found Data: 'Password' in colNum :5
+2022-02-07 18:01:18,828 +0530 [TestNG-tests-1] INFO  (DataReader.java:126) - Data @ row[2]col[5] :Gagu255245@
+2022-02-07 18:01:22,085 +0530 [TestNG-tests-1] INFO  (LoginPageFuntions.java:34) - Login into application : SUCCESSFULL
+2022-02-07 18:01:27,205 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 18:01:32,901 +0530 [main] INFO  (TestBaseClass.java:125) - Email report sent
+2022-02-07 18:04:43,732 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 18:04:48,983 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TestCase: 'VerifyObjectsOfUserHomePage' in rowNum :2
+2022-02-07 18:04:48,984 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Found Data: 'UserName' in colNum :4
+2022-02-07 18:04:48,985 +0530 [TestNG-tests-1] INFO  (DataReader.java:126) - Data @ row[2]col[4] :raghavhsp@rediffmail.com
+2022-02-07 18:04:50,216 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TestCase: 'VerifyObjectsOfUserHomePage' in rowNum :2
+2022-02-07 18:04:50,218 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Found Data: 'Password' in colNum :5
+2022-02-07 18:04:50,219 +0530 [TestNG-tests-1] INFO  (DataReader.java:126) - Data @ row[2]col[5] :Gagu255245@
+2022-02-07 18:04:52,788 +0530 [TestNG-tests-1] INFO  (LoginPageFuntions.java:34) - Login into application : SUCCESSFULL
+2022-02-07 18:04:53,848 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - screnshot created 1.png
+2022-02-07 18:04:58,409 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 18:05:02,606 +0530 [main] INFO  (TestBaseClass.java:125) - Email report sent
+2022-02-07 18:35:30,027 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 18:35:36,729 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Advanced + ']"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [42e0c3039350d2b6a65eef466deacaec, findElement {using=xpath, value=//a[text()='Advanced + ']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49787}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49787/devtoo..., se:cdpVersion: 98.0.4758.81, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 42e0c3039350d2b6a65eef466deacaec
+2022-02-07 18:35:36,731 +0530 [TestNG-tests-1] ERROR (VerifyObjectsOfUserHomePage.java:97) - Not Dispalayed : AdvanceSearhLink
+2022-02-07 18:35:41,879 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Logout']"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [42e0c3039350d2b6a65eef466deacaec, findElement {using=xpath, value=//a[text()='Logout']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49787}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49787/devtoo..., se:cdpVersion: 98.0.4758.81, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 42e0c3039350d2b6a65eef466deacaec
+2022-02-07 18:35:41,879 +0530 [TestNG-tests-1] ERROR (VerifyObjectsOfUserHomePage.java:223) - Not Dispalayed : LogOutLink
+2022-02-07 18:35:46,998 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='rd_srcbtn']//b"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [42e0c3039350d2b6a65eef466deacaec, findElement {using=xpath, value=//button[@class='rd_srcbtn']//b}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49787}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49787/devtoo..., se:cdpVersion: 98.0.4758.81, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 42e0c3039350d2b6a65eef466deacaec
+2022-02-07 18:35:46,999 +0530 [TestNG-tests-1] ERROR (VerifyObjectsOfUserHomePage.java:123) - Not Dispalayed : SearchIcon
+2022-02-07 18:35:52,079 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='inp_search_box']"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [42e0c3039350d2b6a65eef466deacaec, findElement {using=xpath, value=//input[@id='inp_search_box']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49787}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49787/devtoo..., se:cdpVersion: 98.0.4758.81, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 42e0c3039350d2b6a65eef466deacaec
+2022-02-07 18:35:52,079 +0530 [TestNG-tests-1] ERROR (VerifyObjectsOfUserHomePage.java:72) - Not Dispalayed : SearchTextBox
+2022-02-07 18:35:57,138 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='rd_setting_panel']//b"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [42e0c3039350d2b6a65eef466deacaec, findElement {using=xpath, value=//a[@class='rd_setting_panel']//b}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49787}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49787/devtoo..., se:cdpVersion: 98.0.4758.81, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 42e0c3039350d2b6a65eef466deacaec
+2022-02-07 18:35:57,140 +0530 [TestNG-tests-1] ERROR (VerifyObjectsOfUserHomePage.java:198) - Not Dispalayed : SettingsButton
+2022-02-07 18:36:02,228 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='rd_setting_panel']"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [42e0c3039350d2b6a65eef466deacaec, findElement {using=xpath, value=//a[@class='rd_setting_panel']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49787}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49787/devtoo..., se:cdpVersion: 98.0.4758.81, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 42e0c3039350d2b6a65eef466deacaec
+2022-02-07 18:36:02,231 +0530 [TestNG-tests-1] ERROR (VerifyObjectsOfUserHomePage.java:173) - Not Dispalayed : SettingsLink
+2022-02-07 18:36:07,379 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='http://mypage.rediff.com/profile/myprofile']"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [42e0c3039350d2b6a65eef466deacaec, findElement {using=xpath, value=//a[@href='http://mypage.rediff.com/profile/myprofile']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49787}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49787/devtoo..., se:cdpVersion: 98.0.4758.81, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 42e0c3039350d2b6a65eef466deacaec
+2022-02-07 18:36:07,380 +0530 [TestNG-tests-1] ERROR (VerifyObjectsOfUserHomePage.java:148) - Not Dispalayed : UserProfileLink
+2022-02-07 18:36:09,651 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TestCase: 'VerifyObjectsOfUserHomePage' in rowNum :2
+2022-02-07 18:36:09,664 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Found Data: 'UserName' in colNum :4
+2022-02-07 18:36:09,676 +0530 [TestNG-tests-1] INFO  (DataReader.java:126) - Data @ row[2]col[4] :raghavhsp@rediffmail.com
+2022-02-07 18:36:11,239 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TestCase: 'VerifyObjectsOfUserHomePage' in rowNum :2
+2022-02-07 18:36:11,240 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Found Data: 'Password' in colNum :5
+2022-02-07 18:36:11,241 +0530 [TestNG-tests-1] INFO  (DataReader.java:126) - Data @ row[2]col[5] :Gagu255245@
+2022-02-07 18:36:15,123 +0530 [TestNG-tests-1] INFO  (LoginPageFuntions.java:34) - Login into application : SUCCESSFULL
+2022-02-07 18:36:15,174 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:45) - Dispalayed : RediffHomePageLink
+2022-02-07 18:36:15,535 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 1.png
+2022-02-07 18:36:20,254 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 18:36:26,332 +0530 [main] INFO  (TestBaseClass.java:125) - Email report sent
+2022-02-07 18:37:35,620 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 18:37:41,729 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TestCase: 'VerifyObjectsOfUserHomePage' in rowNum :2
+2022-02-07 18:37:41,730 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Found Data: 'UserName' in colNum :4
+2022-02-07 18:37:41,731 +0530 [TestNG-tests-1] INFO  (DataReader.java:126) - Data @ row[2]col[4] :raghavhsp@rediffmail.com
+2022-02-07 18:37:43,178 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TestCase: 'VerifyObjectsOfUserHomePage' in rowNum :2
+2022-02-07 18:37:43,179 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Found Data: 'Password' in colNum :5
+2022-02-07 18:37:43,179 +0530 [TestNG-tests-1] INFO  (DataReader.java:126) - Data @ row[2]col[5] :Gagu255245@
+2022-02-07 18:37:46,753 +0530 [TestNG-tests-1] INFO  (LoginPageFuntions.java:34) - Login into application : SUCCESSFULL
+2022-02-07 18:37:46,817 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:45) - Dispalayed : RediffHomePageLink
+2022-02-07 18:37:47,158 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 1.png
+2022-02-07 18:37:51,409 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:96) - Dispalayed : AdvanceSearhLink
+2022-02-07 18:37:51,641 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 2.png
+2022-02-07 18:37:55,701 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:222) - Dispalayed : LogOutLink
+2022-02-07 18:37:55,924 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 3.png
+2022-02-07 18:38:00,004 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:122) - Dispalayed : SearchIcon
+2022-02-07 18:38:00,248 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 4.png
+2022-02-07 18:38:04,318 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:71) - Dispalayed : SearchTextBox
+2022-02-07 18:38:04,541 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 5.png
+2022-02-07 18:38:08,610 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:197) - Dispalayed : SettingsButton
+2022-02-07 18:38:08,815 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 6.png
+2022-02-07 18:38:12,898 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:172) - Dispalayed : SettingsLink
+2022-02-07 18:38:13,132 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 7.png
+2022-02-07 18:38:17,215 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:147) - Dispalayed : UserProfileLink
+2022-02-07 18:38:17,437 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 8.png
+2022-02-07 18:38:22,027 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 18:38:26,444 +0530 [main] INFO  (TestBaseClass.java:125) - Email report sent
+2022-02-07 19:11:56,427 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 19:12:02,576 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TestCase: 'VerifyObjectsOfUserHomePage' in rowNum :2
+2022-02-07 19:12:02,577 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Found Data: 'UserName' in colNum :4
+2022-02-07 19:12:02,578 +0530 [TestNG-tests-1] INFO  (DataReader.java:126) - Data @ row[2]col[4] :raghavhsp@rediffmail.com
+2022-02-07 19:12:06,027 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TestCase: 'VerifyObjectsOfUserHomePage' in rowNum :2
+2022-02-07 19:12:06,028 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Found Data: 'Password' in colNum :5
+2022-02-07 19:12:06,029 +0530 [TestNG-tests-1] INFO  (DataReader.java:126) - Data @ row[2]col[5] :Gagu255245@
+2022-02-07 19:12:09,767 +0530 [TestNG-tests-1] INFO  (LoginPageFuntions.java:34) - Login into application : SUCCESSFULL
+2022-02-07 19:12:10,325 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:45) - Dispalayed : RediffHomePageLink
+2022-02-07 19:12:11,029 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 1.png
+2022-02-07 19:12:15,585 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:423) - Dispalayed : AddNewFolderIcon
+2022-02-07 19:12:15,843 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 2.png
+2022-02-07 19:12:19,922 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:472) - Dispalayed : AddressBookIcon
+2022-02-07 19:12:20,169 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 3.png
+2022-02-07 19:12:24,246 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:96) - Dispalayed : AdvanceSearhLink
+2022-02-07 19:12:24,485 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 4.png
+2022-02-07 19:12:28,594 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:298) - Dispalayed : BulkTaBButton
+2022-02-07 19:12:28,832 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 5.png
+2022-02-07 19:12:32,915 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:497) - Dispalayed : CalendarIcon
+2022-02-07 19:12:33,194 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 6.png
+2022-02-07 19:12:37,264 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:621) - Dispalayed : CopyRightText
+2022-02-07 19:12:37,504 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 7.png
+2022-02-07 19:12:41,581 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:521) - Dispalayed : DisclaimerLink
+2022-02-07 19:12:41,820 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 8.png
+2022-02-07 19:12:45,884 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:398) - Dispalayed : DraftsTabButton
+2022-02-07 19:12:46,118 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 9.png
+2022-02-07 19:12:50,202 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:596) - Dispalayed : FeedBackLink
+2022-02-07 19:12:50,489 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 10.png
+2022-02-07 19:12:54,545 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:448) - Dispalayed : FoldersExpandIcon
+2022-02-07 19:12:54,779 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 11.png
+2022-02-07 19:12:58,835 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:272) - Dispalayed : InboxTabButton
+2022-02-07 19:12:59,066 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 12.png
+2022-02-07 19:13:03,126 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:323) - Dispalayed : JunkTabButton
+2022-02-07 19:13:03,369 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 13.png
+2022-02-07 19:13:07,438 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:222) - Dispalayed : LogOutLink
+2022-02-07 19:13:07,668 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 14.png
+2022-02-07 19:13:11,778 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:546) - Dispalayed : PrivacyPolicyLink
+2022-02-07 19:13:12,018 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 15.png
+2022-02-07 19:13:16,076 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:122) - Dispalayed : SearchIcon
+2022-02-07 19:13:16,314 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 16.png
+2022-02-07 19:13:20,404 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:71) - Dispalayed : SearchTextBox
+2022-02-07 19:13:20,635 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 17.png
+2022-02-07 19:13:24,788 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:348) - Dispalayed : SentTabButton
+2022-02-07 19:13:25,029 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 18.png
+2022-02-07 19:13:29,087 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:197) - Dispalayed : SettingsButton
+2022-02-07 19:13:29,319 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 19.png
+2022-02-07 19:13:33,387 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:172) - Dispalayed : SettingsLink
+2022-02-07 19:13:33,612 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 20.png
+2022-02-07 19:13:37,711 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:373) - Dispalayed : TrashTabButton
+2022-02-07 19:13:37,949 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 21.png
+2022-02-07 19:13:42,026 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:147) - Dispalayed : UserProfileLink
+2022-02-07 19:13:42,299 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 22.png
+2022-02-07 19:13:46,366 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:247) - Dispalayed : WriteMailTabButton
+2022-02-07 19:13:46,605 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 23.png
+2022-02-07 19:13:50,670 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:571) - Dispalayed : tNcLink
+2022-02-07 19:13:50,901 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 24.png
+2022-02-07 19:13:55,394 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 19:13:59,863 +0530 [main] INFO  (TestBaseClass.java:125) - Email report sent
+2022-02-07 19:22:11,878 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 19:22:14,106 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 1.png
+2022-02-07 19:22:20,636 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 2.png
+2022-02-07 19:22:25,221 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 3.png
+2022-02-07 19:22:29,501 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 4.png
+2022-02-07 19:22:33,822 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 5.png
+2022-02-07 19:22:38,119 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 6.png
+2022-02-07 19:22:42,382 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 7.png
+2022-02-07 19:22:46,921 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 8.png
+2022-02-07 19:22:51,395 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 19:22:55,170 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:89) - Lanching browser :EDGE
+2022-02-07 19:22:58,498 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 9.png
+2022-02-07 19:23:02,941 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 10.png
+2022-02-07 19:23:07,329 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 11.png
+2022-02-07 19:23:11,786 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 12.png
+2022-02-07 19:23:16,010 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 13.png
+2022-02-07 19:23:20,257 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 14.png
+2022-02-07 19:23:24,536 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 15.png
+2022-02-07 19:23:28,870 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 16.png
+2022-02-07 19:23:33,423 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 19:23:40,794 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:71) - Lanching browser :Fire Fox
+2022-02-07 19:23:42,924 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 17.png
+2022-02-07 19:23:47,106 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 18.png
+2022-02-07 19:23:51,276 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 19.png
+2022-02-07 19:23:55,427 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 20.png
+2022-02-07 19:23:59,573 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 21.png
+2022-02-07 19:24:03,713 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 22.png
+2022-02-07 19:24:07,874 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 23.png
+2022-02-07 19:24:12,022 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 24.png
+2022-02-07 19:24:17,355 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 19:24:19,434 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 19:24:24,600 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TestCase: 'VerifyObjectsOfUserHomePage' in rowNum :2
+2022-02-07 19:24:24,601 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Found Data: 'UserName' in colNum :4
+2022-02-07 19:24:24,601 +0530 [TestNG-tests-1] INFO  (DataReader.java:126) - Data @ row[2]col[4] :raghavhsp@rediffmail.com
+2022-02-07 19:24:25,991 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TestCase: 'VerifyObjectsOfUserHomePage' in rowNum :2
+2022-02-07 19:24:25,992 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Found Data: 'Password' in colNum :5
+2022-02-07 19:24:25,993 +0530 [TestNG-tests-1] INFO  (DataReader.java:126) - Data @ row[2]col[5] :Gagu255245@
+2022-02-07 19:24:29,644 +0530 [TestNG-tests-1] INFO  (LoginPageFuntions.java:34) - Login into application : SUCCESSFULL
+2022-02-07 19:24:29,685 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:45) - Dispalayed : RediffHomePageLink
+2022-02-07 19:24:30,056 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 25.png
+2022-02-07 19:24:34,191 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:450) - Dispalayed : AddNewFolderIcon
+2022-02-07 19:24:34,480 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 26.png
+2022-02-07 19:24:38,560 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:504) - Dispalayed : AddressBookIcon
+2022-02-07 19:24:38,838 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 27.png
+2022-02-07 19:24:42,953 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:99) - Dispalayed : AdvanceSearhLink
+2022-02-07 19:24:43,184 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 28.png
+2022-02-07 19:24:47,319 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:315) - Dispalayed : BulkTaBButton
+2022-02-07 19:24:47,576 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 29.png
+2022-02-07 19:24:51,664 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:531) - Dispalayed : CalendarIcon
+2022-02-07 19:24:51,898 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 30.png
+2022-02-07 19:24:56,050 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:666) - Dispalayed : CopyRightText
+2022-02-07 19:24:56,284 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 31.png
+2022-02-07 19:25:00,344 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:558) - Dispalayed : DisclaimerLink
+2022-02-07 19:25:00,612 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 32.png
+2022-02-07 19:25:04,761 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:423) - Dispalayed : DraftsTabButton
+2022-02-07 19:25:05,005 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 33.png
+2022-02-07 19:25:09,171 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:639) - Dispalayed : FeedBackLink
+2022-02-07 19:25:09,402 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 34.png
+2022-02-07 19:25:13,504 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:477) - Dispalayed : FoldersExpandIcon
+2022-02-07 19:25:13,731 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 35.png
+2022-02-07 19:25:17,858 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:288) - Dispalayed : InboxTabButton
+2022-02-07 19:25:18,122 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 36.png
+2022-02-07 19:25:22,199 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:342) - Dispalayed : JunkTabButton
+2022-02-07 19:25:22,455 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 37.png
+2022-02-07 19:25:26,541 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:234) - Dispalayed : LogOutLink
+2022-02-07 19:25:26,790 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 38.png
+2022-02-07 19:25:30,916 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:585) - Dispalayed : PrivacyPolicyLink
+2022-02-07 19:25:31,165 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 39.png
+2022-02-07 19:25:35,300 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:126) - Dispalayed : SearchIcon
+2022-02-07 19:25:35,537 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 40.png
+2022-02-07 19:25:39,604 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:72) - Dispalayed : SearchTextBox
+2022-02-07 19:25:39,853 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 41.png
+2022-02-07 19:25:43,944 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:369) - Dispalayed : SentTabButton
+2022-02-07 19:25:44,179 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 42.png
+2022-02-07 19:25:48,324 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:207) - Dispalayed : SettingsButton
+2022-02-07 19:25:48,549 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 43.png
+2022-02-07 19:25:52,639 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:180) - Dispalayed : SettingsLink
+2022-02-07 19:25:52,869 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 44.png
+2022-02-07 19:25:56,971 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:396) - Dispalayed : TrashTabButton
+2022-02-07 19:25:57,200 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 45.png
+2022-02-07 19:26:01,295 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:153) - Dispalayed : UserProfileLink
+2022-02-07 19:26:01,590 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 46.png
+2022-02-07 19:26:05,652 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:261) - Dispalayed : WriteMailTabButton
+2022-02-07 19:26:05,885 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 47.png
+2022-02-07 19:26:09,956 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:612) - Dispalayed : tNcLink
+2022-02-07 19:26:10,201 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 48.png
+2022-02-07 19:26:14,688 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 19:26:17,347 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:89) - Lanching browser :EDGE
+2022-02-07 19:26:19,821 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TestCase: 'VerifyObjectsOfUserHomePage' in rowNum :2
+2022-02-07 19:26:19,872 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Found Data: 'UserName' in colNum :4
+2022-02-07 19:26:19,873 +0530 [TestNG-tests-1] INFO  (DataReader.java:126) - Data @ row[2]col[4] :raghavhsp@rediffmail.com
+2022-02-07 19:26:20,526 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TestCase: 'VerifyObjectsOfUserHomePage' in rowNum :2
+2022-02-07 19:26:20,527 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Found Data: 'Password' in colNum :5
+2022-02-07 19:26:20,528 +0530 [TestNG-tests-1] INFO  (DataReader.java:126) - Data @ row[2]col[5] :Gagu255245@
+2022-02-07 19:26:26,496 +0530 [TestNG-tests-1] INFO  (LoginPageFuntions.java:34) - Login into application : SUCCESSFULL
+2022-02-07 19:26:26,529 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:45) - Dispalayed : RediffHomePageLink
+2022-02-07 19:26:26,869 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 49.png
+2022-02-07 19:26:30,946 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:450) - Dispalayed : AddNewFolderIcon
+2022-02-07 19:26:31,225 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 50.png
+2022-02-07 19:26:35,330 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:504) - Dispalayed : AddressBookIcon
+2022-02-07 19:26:35,574 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 51.png
+2022-02-07 19:26:39,655 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:99) - Dispalayed : AdvanceSearhLink
+2022-02-07 19:26:39,925 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 52.png
+2022-02-07 19:26:43,997 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:315) - Dispalayed : BulkTaBButton
+2022-02-07 19:26:44,241 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 53.png
+2022-02-07 19:26:48,301 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:531) - Dispalayed : CalendarIcon
+2022-02-07 19:26:48,537 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 54.png
+2022-02-07 19:26:52,597 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:666) - Dispalayed : CopyRightText
+2022-02-07 19:26:52,841 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 55.png
+2022-02-07 19:26:56,900 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:558) - Dispalayed : DisclaimerLink
+2022-02-07 19:26:57,142 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 56.png
+2022-02-07 19:27:01,213 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:423) - Dispalayed : DraftsTabButton
+2022-02-07 19:27:01,484 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 57.png
+2022-02-07 19:27:05,572 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:639) - Dispalayed : FeedBackLink
+2022-02-07 19:27:05,824 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 58.png
+2022-02-07 19:27:09,887 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:477) - Dispalayed : FoldersExpandIcon
+2022-02-07 19:27:10,143 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 59.png
+2022-02-07 19:27:14,186 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:288) - Dispalayed : InboxTabButton
+2022-02-07 19:27:14,448 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 60.png
+2022-02-07 19:27:18,497 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:342) - Dispalayed : JunkTabButton
+2022-02-07 19:27:18,803 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 61.png
+2022-02-07 19:27:22,854 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:234) - Dispalayed : LogOutLink
+2022-02-07 19:27:23,111 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 62.png
+2022-02-07 19:27:27,177 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:585) - Dispalayed : PrivacyPolicyLink
+2022-02-07 19:27:27,444 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 63.png
+2022-02-07 19:27:31,509 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:126) - Dispalayed : SearchIcon
+2022-02-07 19:27:31,805 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 64.png
+2022-02-07 19:27:35,852 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:72) - Dispalayed : SearchTextBox
+2022-02-07 19:27:36,107 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 65.png
+2022-02-07 19:27:40,177 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:369) - Dispalayed : SentTabButton
+2022-02-07 19:27:40,451 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 66.png
+2022-02-07 19:27:44,513 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:207) - Dispalayed : SettingsButton
+2022-02-07 19:27:44,754 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 67.png
+2022-02-07 19:27:48,879 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:180) - Dispalayed : SettingsLink
+2022-02-07 19:27:49,149 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 68.png
+2022-02-07 19:27:53,219 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:396) - Dispalayed : TrashTabButton
+2022-02-07 19:27:53,457 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 69.png
+2022-02-07 19:27:57,530 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:153) - Dispalayed : UserProfileLink
+2022-02-07 19:27:57,791 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 70.png
+2022-02-07 19:28:01,855 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:261) - Dispalayed : WriteMailTabButton
+2022-02-07 19:28:02,105 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 71.png
+2022-02-07 19:28:06,207 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:612) - Dispalayed : tNcLink
+2022-02-07 19:28:06,440 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 72.png
+2022-02-07 19:28:11,316 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 19:28:17,776 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:71) - Lanching browser :Fire Fox
+2022-02-07 19:28:19,929 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TestCase: 'VerifyObjectsOfUserHomePage' in rowNum :2
+2022-02-07 19:28:19,929 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Found Data: 'UserName' in colNum :4
+2022-02-07 19:28:19,929 +0530 [TestNG-tests-1] INFO  (DataReader.java:126) - Data @ row[2]col[4] :raghavhsp@rediffmail.com
+2022-02-07 19:28:20,439 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TestCase: 'VerifyObjectsOfUserHomePage' in rowNum :2
+2022-02-07 19:28:20,441 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Found Data: 'Password' in colNum :5
+2022-02-07 19:28:20,441 +0530 [TestNG-tests-1] INFO  (DataReader.java:126) - Data @ row[2]col[5] :Gagu255245@
+2022-02-07 19:28:22,874 +0530 [TestNG-tests-1] INFO  (LoginPageFuntions.java:34) - Login into application : SUCCESSFULL
+2022-02-07 19:28:22,918 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:45) - Dispalayed : RediffHomePageLink
+2022-02-07 19:28:23,174 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 73.png
+2022-02-07 19:28:27,222 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:450) - Dispalayed : AddNewFolderIcon
+2022-02-07 19:28:27,324 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 74.png
+2022-02-07 19:28:31,392 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:504) - Dispalayed : AddressBookIcon
+2022-02-07 19:28:31,532 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 75.png
+2022-02-07 19:28:35,599 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:99) - Dispalayed : AdvanceSearhLink
+2022-02-07 19:28:35,701 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 76.png
+2022-02-07 19:28:39,757 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:315) - Dispalayed : BulkTaBButton
+2022-02-07 19:28:39,862 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 77.png
+2022-02-07 19:28:43,938 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:531) - Dispalayed : CalendarIcon
+2022-02-07 19:28:44,103 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 78.png
+2022-02-07 19:28:48,173 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:666) - Dispalayed : CopyRightText
+2022-02-07 19:28:48,296 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 79.png
+2022-02-07 19:28:52,360 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:558) - Dispalayed : DisclaimerLink
+2022-02-07 19:28:52,465 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 80.png
+2022-02-07 19:28:56,533 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:423) - Dispalayed : DraftsTabButton
+2022-02-07 19:28:56,643 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 81.png
+2022-02-07 19:29:00,688 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:639) - Dispalayed : FeedBackLink
+2022-02-07 19:29:00,842 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 82.png
+2022-02-07 19:29:04,908 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:477) - Dispalayed : FoldersExpandIcon
+2022-02-07 19:29:05,016 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 83.png
+2022-02-07 19:29:09,100 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:288) - Dispalayed : InboxTabButton
+2022-02-07 19:29:09,228 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 84.png
+2022-02-07 19:29:13,300 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:342) - Dispalayed : JunkTabButton
+2022-02-07 19:29:13,427 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 85.png
+2022-02-07 19:29:17,491 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:234) - Dispalayed : LogOutLink
+2022-02-07 19:29:17,657 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 86.png
+2022-02-07 19:29:21,708 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:585) - Dispalayed : PrivacyPolicyLink
+2022-02-07 19:29:21,816 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 87.png
+2022-02-07 19:29:25,887 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:126) - Dispalayed : SearchIcon
+2022-02-07 19:29:25,990 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 88.png
+2022-02-07 19:29:30,052 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:72) - Dispalayed : SearchTextBox
+2022-02-07 19:29:30,161 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 89.png
+2022-02-07 19:29:34,231 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:369) - Dispalayed : SentTabButton
+2022-02-07 19:29:34,363 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 90.png
+2022-02-07 19:29:38,419 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:207) - Dispalayed : SettingsButton
+2022-02-07 19:29:38,521 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 91.png
+2022-02-07 19:29:42,577 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:180) - Dispalayed : SettingsLink
+2022-02-07 19:29:42,682 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 92.png
+2022-02-07 19:29:46,738 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:396) - Dispalayed : TrashTabButton
+2022-02-07 19:29:46,842 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 93.png
+2022-02-07 19:29:50,896 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:153) - Dispalayed : UserProfileLink
+2022-02-07 19:29:51,012 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 94.png
+2022-02-07 19:29:55,068 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:261) - Dispalayed : WriteMailTabButton
+2022-02-07 19:29:55,173 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 95.png
+2022-02-07 19:29:59,238 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:612) - Dispalayed : tNcLink
+2022-02-07 19:29:59,352 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 96.png
+2022-02-07 19:30:04,606 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 19:30:09,743 +0530 [main] INFO  (TestBaseClass.java:125) - Email report sent
+2022-02-07 19:32:19,196 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 19:32:20,489 +0530 [TestNG-tests-2] INFO  (TestBaseClass.java:89) - Lanching browser :EDGE
+2022-02-07 19:32:28,177 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 1.png
+2022-02-07 19:32:28,503 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 1.png
+2022-02-07 19:32:33,640 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 3.png
+2022-02-07 19:32:33,775 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 3.png
+2022-02-07 19:32:38,282 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 5.png
+2022-02-07 19:32:38,313 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 5.png
+2022-02-07 19:32:42,742 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 7.png
+2022-02-07 19:32:42,884 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 7.png
+2022-02-07 19:32:47,226 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 9.png
+2022-02-07 19:32:47,280 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 9.png
+2022-02-07 19:32:51,630 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 11.png
+2022-02-07 19:32:51,746 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 11.png
+2022-02-07 19:32:56,018 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 13.png
+2022-02-07 19:32:56,302 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 13.png
+2022-02-07 19:33:00,258 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 14.png
+2022-02-07 19:33:00,805 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 15.png
+2022-02-07 19:33:05,330 +0530 [TestNG-tests-2] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 19:33:05,623 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 19:33:08,086 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 19:33:13,534 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TestCase: 'VerifyObjectsOfUserHomePage' in rowNum :2
+2022-02-07 19:33:13,535 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Found Data: 'UserName' in colNum :4
+2022-02-07 19:33:13,536 +0530 [TestNG-tests-1] INFO  (DataReader.java:126) - Data @ row[2]col[4] :raghavhsp@rediffmail.com
+2022-02-07 19:33:15,955 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TestCase: 'VerifyObjectsOfUserHomePage' in rowNum :2
+2022-02-07 19:33:15,956 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Found Data: 'Password' in colNum :5
+2022-02-07 19:33:15,957 +0530 [TestNG-tests-1] INFO  (DataReader.java:126) - Data @ row[2]col[5] :Gagu255245@
+2022-02-07 19:33:18,308 +0530 [TestNG-tests-2] INFO  (TestBaseClass.java:71) - Lanching browser :Fire Fox
+2022-02-07 19:33:20,371 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 17.png
+2022-02-07 19:33:23,922 +0530 [TestNG-tests-1] INFO  (LoginPageFuntions.java:34) - Login into application : SUCCESSFULL
+2022-02-07 19:33:24,048 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:45) - Dispalayed : RediffHomePageLink
+2022-02-07 19:33:24,504 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 18.png
+2022-02-07 19:33:24,703 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 18.png
+2022-02-07 19:33:28,646 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:450) - Dispalayed : AddNewFolderIcon
+2022-02-07 19:33:28,868 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 20.png
+2022-02-07 19:33:28,979 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 20.png
+2022-02-07 19:33:33,005 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 22.png
+2022-02-07 19:33:33,033 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:504) - Dispalayed : AddressBookIcon
+2022-02-07 19:33:33,277 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 22.png
+2022-02-07 19:33:37,148 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 23.png
+2022-02-07 19:33:37,399 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:99) - Dispalayed : AdvanceSearhLink
+2022-02-07 19:33:37,647 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 24.png
+2022-02-07 19:33:41,345 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 25.png
+2022-02-07 19:33:41,764 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:315) - Dispalayed : BulkTaBButton
+2022-02-07 19:33:42,009 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 26.png
+2022-02-07 19:33:45,490 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 27.png
+2022-02-07 19:33:46,060 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:531) - Dispalayed : CalendarIcon
+2022-02-07 19:33:46,310 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 28.png
+2022-02-07 19:33:49,634 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 29.png
+2022-02-07 19:33:50,447 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:666) - Dispalayed : CopyRightText
+2022-02-07 19:33:50,688 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 30.png
+2022-02-07 19:33:54,760 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:558) - Dispalayed : DisclaimerLink
+2022-02-07 19:33:54,960 +0530 [TestNG-tests-2] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 19:33:55,063 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 32.png
+2022-02-07 19:33:57,616 +0530 [TestNG-tests-2] INFO  (TestBaseClass.java:89) - Lanching browser :EDGE
+2022-02-07 19:33:59,381 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:423) - Dispalayed : DraftsTabButton
+2022-02-07 19:33:59,876 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 33.png
+2022-02-07 19:33:59,911 +0530 [TestNG-tests-2] INFO  (DataReader.java:109) - Found TestCase: 'VerifyObjectsOfUserHomePage' in rowNum :2
+2022-02-07 19:33:59,912 +0530 [TestNG-tests-2] INFO  (DataReader.java:117) - Found Data: 'UserName' in colNum :4
+2022-02-07 19:33:59,914 +0530 [TestNG-tests-2] INFO  (DataReader.java:126) - Data @ row[2]col[4] :raghavhsp@rediffmail.com
+2022-02-07 19:34:01,056 +0530 [TestNG-tests-2] INFO  (DataReader.java:109) - Found TestCase: 'VerifyObjectsOfUserHomePage' in rowNum :2
+2022-02-07 19:34:01,057 +0530 [TestNG-tests-2] INFO  (DataReader.java:117) - Found Data: 'Password' in colNum :5
+2022-02-07 19:34:01,057 +0530 [TestNG-tests-2] INFO  (DataReader.java:126) - Data @ row[2]col[5] :Gagu255245@
+2022-02-07 19:34:03,971 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:639) - Dispalayed : FeedBackLink
+2022-02-07 19:34:04,260 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 34.png
+2022-02-07 19:34:06,590 +0530 [TestNG-tests-2] INFO  (LoginPageFuntions.java:34) - Login into application : SUCCESSFULL
+2022-02-07 19:34:06,629 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:45) - Dispalayed : RediffHomePageLink
+2022-02-07 19:34:06,868 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 34.png
+2022-02-07 19:34:08,339 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:477) - Dispalayed : FoldersExpandIcon
+2022-02-07 19:34:08,710 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 35.png
+2022-02-07 19:34:10,910 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:450) - Dispalayed : AddNewFolderIcon
+2022-02-07 19:34:11,171 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 36.png
+2022-02-07 19:34:12,816 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:288) - Dispalayed : InboxTabButton
+2022-02-07 19:34:13,088 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 37.png
+2022-02-07 19:34:15,241 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:504) - Dispalayed : AddressBookIcon
+2022-02-07 19:34:15,469 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 38.png
+2022-02-07 19:34:17,209 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:342) - Dispalayed : JunkTabButton
+2022-02-07 19:34:17,494 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 39.png
+2022-02-07 19:34:19,623 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:99) - Dispalayed : AdvanceSearhLink
+2022-02-07 19:34:19,862 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 40.png
+2022-02-07 19:34:21,539 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:234) - Dispalayed : LogOutLink
+2022-02-07 19:34:21,835 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 41.png
+2022-02-07 19:34:23,931 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:315) - Dispalayed : BulkTaBButton
+2022-02-07 19:34:24,140 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 42.png
+2022-02-07 19:34:25,999 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:585) - Dispalayed : PrivacyPolicyLink
+2022-02-07 19:34:26,251 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 43.png
+2022-02-07 19:34:28,210 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:531) - Dispalayed : CalendarIcon
+2022-02-07 19:34:28,454 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 44.png
+2022-02-07 19:34:30,348 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:126) - Dispalayed : SearchIcon
+2022-02-07 19:34:30,600 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 45.png
+2022-02-07 19:34:32,528 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:666) - Dispalayed : CopyRightText
+2022-02-07 19:34:32,752 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 46.png
+2022-02-07 19:34:34,674 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:72) - Dispalayed : SearchTextBox
+2022-02-07 19:34:34,931 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 47.png
+2022-02-07 19:34:36,861 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:558) - Dispalayed : DisclaimerLink
+2022-02-07 19:34:37,095 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 48.png
+2022-02-07 19:34:39,048 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:369) - Dispalayed : SentTabButton
+2022-02-07 19:34:39,340 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 49.png
+2022-02-07 19:34:41,138 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:423) - Dispalayed : DraftsTabButton
+2022-02-07 19:34:41,397 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 50.png
+2022-02-07 19:34:43,425 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:207) - Dispalayed : SettingsButton
+2022-02-07 19:34:43,683 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 51.png
+2022-02-07 19:34:45,458 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:639) - Dispalayed : FeedBackLink
+2022-02-07 19:34:45,721 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 52.png
+2022-02-07 19:34:47,757 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:180) - Dispalayed : SettingsLink
+2022-02-07 19:34:48,092 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 53.png
+2022-02-07 19:34:49,789 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:477) - Dispalayed : FoldersExpandIcon
+2022-02-07 19:34:50,012 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 54.png
+2022-02-07 19:34:52,204 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:396) - Dispalayed : TrashTabButton
+2022-02-07 19:34:52,473 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 55.png
+2022-02-07 19:34:54,069 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:288) - Dispalayed : InboxTabButton
+2022-02-07 19:34:54,277 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 56.png
+2022-02-07 19:34:56,511 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:153) - Dispalayed : UserProfileLink
+2022-02-07 19:34:56,766 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 57.png
+2022-02-07 19:34:58,336 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:342) - Dispalayed : JunkTabButton
+2022-02-07 19:34:58,545 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 58.png
+2022-02-07 19:35:00,884 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:261) - Dispalayed : WriteMailTabButton
+2022-02-07 19:35:01,141 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 59.png
+2022-02-07 19:35:02,604 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:234) - Dispalayed : LogOutLink
+2022-02-07 19:35:02,813 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 60.png
+2022-02-07 19:35:05,204 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:612) - Dispalayed : tNcLink
+2022-02-07 19:35:05,464 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 61.png
+2022-02-07 19:35:06,876 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:585) - Dispalayed : PrivacyPolicyLink
+2022-02-07 19:35:07,182 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 62.png
+2022-02-07 19:35:10,234 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 19:35:11,237 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:126) - Dispalayed : SearchIcon
+2022-02-07 19:35:11,482 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 64.png
+2022-02-07 19:35:15,527 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:72) - Dispalayed : SearchTextBox
+2022-02-07 19:35:15,890 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 65.png
+2022-02-07 19:35:19,071 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:71) - Lanching browser :Fire Fox
+2022-02-07 19:35:19,962 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:369) - Dispalayed : SentTabButton
+2022-02-07 19:35:20,221 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 66.png
+2022-02-07 19:35:21,080 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TestCase: 'VerifyObjectsOfUserHomePage' in rowNum :2
+2022-02-07 19:35:21,081 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Found Data: 'UserName' in colNum :4
+2022-02-07 19:35:21,081 +0530 [TestNG-tests-1] INFO  (DataReader.java:126) - Data @ row[2]col[4] :raghavhsp@rediffmail.com
+2022-02-07 19:35:21,689 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TestCase: 'VerifyObjectsOfUserHomePage' in rowNum :2
+2022-02-07 19:35:21,689 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Found Data: 'Password' in colNum :5
+2022-02-07 19:35:21,690 +0530 [TestNG-tests-1] INFO  (DataReader.java:126) - Data @ row[2]col[5] :Gagu255245@
+2022-02-07 19:35:24,361 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:207) - Dispalayed : SettingsButton
+2022-02-07 19:35:24,527 +0530 [TestNG-tests-1] INFO  (LoginPageFuntions.java:34) - Login into application : SUCCESSFULL
+2022-02-07 19:35:24,564 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:45) - Dispalayed : RediffHomePageLink
+2022-02-07 19:35:24,739 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 67.png
+2022-02-07 19:35:24,763 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 67.png
+2022-02-07 19:35:28,797 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:180) - Dispalayed : SettingsLink
+2022-02-07 19:35:28,814 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:450) - Dispalayed : AddNewFolderIcon
+2022-02-07 19:35:28,989 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 69.png
+2022-02-07 19:35:29,046 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 69.png
+2022-02-07 19:35:33,076 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:504) - Dispalayed : AddressBookIcon
+2022-02-07 19:35:33,108 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:396) - Dispalayed : TrashTabButton
+2022-02-07 19:35:33,256 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 71.png
+2022-02-07 19:35:33,362 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 71.png
+2022-02-07 19:35:37,314 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:99) - Dispalayed : AdvanceSearhLink
+2022-02-07 19:35:37,457 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:153) - Dispalayed : UserProfileLink
+2022-02-07 19:35:37,524 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 73.png
+2022-02-07 19:35:37,757 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 73.png
+2022-02-07 19:35:41,599 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:315) - Dispalayed : BulkTaBButton
+2022-02-07 19:35:41,766 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 75.png
+2022-02-07 19:35:41,804 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:261) - Dispalayed : WriteMailTabButton
+2022-02-07 19:35:42,022 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 75.png
+2022-02-07 19:35:45,832 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:531) - Dispalayed : CalendarIcon
+2022-02-07 19:35:45,977 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 76.png
+2022-02-07 19:35:46,074 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:612) - Dispalayed : tNcLink
+2022-02-07 19:35:46,297 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 77.png
+2022-02-07 19:35:50,026 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:666) - Dispalayed : CopyRightText
+2022-02-07 19:35:50,204 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 78.png
+2022-02-07 19:35:51,032 +0530 [TestNG-tests-2] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 19:35:54,262 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:558) - Dispalayed : DisclaimerLink
+2022-02-07 19:35:54,399 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 80.png
+2022-02-07 19:35:58,472 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:423) - Dispalayed : DraftsTabButton
+2022-02-07 19:35:58,597 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 81.png
+2022-02-07 19:36:02,640 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:639) - Dispalayed : FeedBackLink
+2022-02-07 19:36:02,782 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 82.png
+2022-02-07 19:36:06,842 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:477) - Dispalayed : FoldersExpandIcon
+2022-02-07 19:36:06,959 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 83.png
+2022-02-07 19:36:11,044 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:288) - Dispalayed : InboxTabButton
+2022-02-07 19:36:11,178 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 84.png
+2022-02-07 19:36:15,238 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:342) - Dispalayed : JunkTabButton
+2022-02-07 19:36:15,358 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 85.png
+2022-02-07 19:36:19,441 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:234) - Dispalayed : LogOutLink
+2022-02-07 19:36:19,562 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 86.png
+2022-02-07 19:36:23,627 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:585) - Dispalayed : PrivacyPolicyLink
+2022-02-07 19:36:23,780 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 87.png
+2022-02-07 19:36:27,833 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:126) - Dispalayed : SearchIcon
+2022-02-07 19:36:27,957 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 88.png
+2022-02-07 19:36:32,024 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:72) - Dispalayed : SearchTextBox
+2022-02-07 19:36:32,149 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 89.png
+2022-02-07 19:36:36,213 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:369) - Dispalayed : SentTabButton
+2022-02-07 19:36:36,362 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 90.png
+2022-02-07 19:36:40,428 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:207) - Dispalayed : SettingsButton
+2022-02-07 19:36:40,554 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 91.png
+2022-02-07 19:36:44,609 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:180) - Dispalayed : SettingsLink
+2022-02-07 19:36:44,728 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 92.png
+2022-02-07 19:36:48,801 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:396) - Dispalayed : TrashTabButton
+2022-02-07 19:36:48,929 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 93.png
+2022-02-07 19:36:53,002 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:153) - Dispalayed : UserProfileLink
+2022-02-07 19:36:53,165 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 94.png
+2022-02-07 19:36:57,230 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:261) - Dispalayed : WriteMailTabButton
+2022-02-07 19:36:57,356 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 95.png
+2022-02-07 19:37:01,421 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:612) - Dispalayed : tNcLink
+2022-02-07 19:37:01,553 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 96.png
+2022-02-07 19:37:06,971 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 19:37:11,971 +0530 [main] INFO  (TestBaseClass.java:125) - Email report sent
+2022-02-07 20:41:33,443 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 20:41:37,952 +0530 [TestNG-tests-2] INFO  (TestBaseClass.java:89) - Lanching browser :EDGE
+2022-02-07 20:41:39,536 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 1.png
+2022-02-07 20:41:45,644 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 2.png
+2022-02-07 20:41:45,647 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 2.png
+2022-02-07 20:41:50,255 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 4.png
+2022-02-07 20:41:50,851 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 4.png
+2022-02-07 20:41:54,652 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 5.png
+2022-02-07 20:41:55,361 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 6.png
+2022-02-07 20:41:59,045 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 7.png
+2022-02-07 20:41:59,858 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 8.png
+2022-02-07 20:42:03,304 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 9.png
+2022-02-07 20:42:04,215 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 10.png
+2022-02-07 20:42:07,624 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 11.png
+2022-02-07 20:42:08,532 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 12.png
+2022-02-07 20:42:11,919 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 13.png
+2022-02-07 20:42:12,843 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 14.png
+2022-02-07 20:42:16,242 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 15.png
+2022-02-07 20:42:17,204 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 16.png
+2022-02-07 20:42:20,621 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 17.png
+2022-02-07 20:42:21,584 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 18.png
+2022-02-07 20:42:24,949 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 19.png
+2022-02-07 20:42:25,901 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 20.png
+2022-02-07 20:42:29,221 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 21.png
+2022-02-07 20:42:30,228 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 22.png
+2022-02-07 20:42:33,647 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 20:42:34,593 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 24.png
+2022-02-07 20:42:40,140 +0530 [TestNG-tests-2] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 20:42:42,447 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:71) - Lanching browser :Fire Fox
+2022-02-07 20:42:42,713 +0530 [TestNG-tests-2] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 20:42:44,447 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 25.png
+2022-02-07 20:42:49,792 +0530 [TestNG-tests-2] INFO  (DataReader.java:109) - Found TestCase: 'VerifyObjectsOfUserHomePage' in rowNum :2
+2022-02-07 20:42:49,792 +0530 [TestNG-tests-2] INFO  (DataReader.java:117) - Found Data: 'UserName' in colNum :4
+2022-02-07 20:42:49,793 +0530 [TestNG-tests-2] INFO  (DataReader.java:126) - Data @ row[2]col[4] :raghavhsp@rediffmail.com
+2022-02-07 20:42:49,973 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 26.png
+2022-02-07 20:42:54,296 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 27.png
+2022-02-07 20:42:55,060 +0530 [TestNG-tests-2] INFO  (DataReader.java:109) - Found TestCase: 'VerifyObjectsOfUserHomePage' in rowNum :2
+2022-02-07 20:42:55,061 +0530 [TestNG-tests-2] INFO  (DataReader.java:117) - Found Data: 'Password' in colNum :5
+2022-02-07 20:42:55,061 +0530 [TestNG-tests-2] INFO  (DataReader.java:126) - Data @ row[2]col[5] :Gagu255245@
+2022-02-07 20:42:58,582 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 28.png
+2022-02-07 20:42:59,636 +0530 [TestNG-tests-2] INFO  (LoginPageFuntions.java:34) - Login into application : SUCCESSFULL
+2022-02-07 20:42:59,671 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:45) - Dispalayed : RediffHomePageLink
+2022-02-07 20:43:00,677 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 28.png
+2022-02-07 20:43:02,843 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 29.png
+2022-02-07 20:43:04,799 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:450) - Dispalayed : AddNewFolderIcon
+2022-02-07 20:43:05,077 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 30.png
+2022-02-07 20:43:07,062 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 31.png
+2022-02-07 20:43:09,221 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:504) - Dispalayed : AddressBookIcon
+2022-02-07 20:43:09,577 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 32.png
+2022-02-07 20:43:11,390 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 33.png
+2022-02-07 20:43:13,696 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:99) - Dispalayed : AdvanceSearhLink
+2022-02-07 20:43:13,947 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 34.png
+2022-02-07 20:43:15,580 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 35.png
+2022-02-07 20:43:18,075 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:315) - Dispalayed : BulkTaBButton
+2022-02-07 20:43:18,516 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 36.png
+2022-02-07 20:43:19,800 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 37.png
+2022-02-07 20:43:22,668 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:531) - Dispalayed : CalendarIcon
+2022-02-07 20:43:22,892 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 38.png
+2022-02-07 20:43:24,088 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 39.png
+2022-02-07 20:43:26,968 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:666) - Dispalayed : CopyRightText
+2022-02-07 20:43:27,256 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 40.png
+2022-02-07 20:43:28,364 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 41.png
+2022-02-07 20:43:31,811 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:558) - Dispalayed : DisclaimerLink
+2022-02-07 20:43:32,022 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 42.png
+2022-02-07 20:43:32,602 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 43.png
+2022-02-07 20:43:36,097 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:423) - Dispalayed : DraftsTabButton
+2022-02-07 20:43:36,306 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 44.png
+2022-02-07 20:43:38,356 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 20:43:40,825 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:639) - Dispalayed : FeedBackLink
+2022-02-07 20:43:41,159 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:89) - Lanching browser :EDGE
+2022-02-07 20:43:41,478 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 46.png
+2022-02-07 20:43:43,427 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TestCase: 'VerifyObjectsOfUserHomePage' in rowNum :2
+2022-02-07 20:43:43,428 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Found Data: 'UserName' in colNum :4
+2022-02-07 20:43:43,429 +0530 [TestNG-tests-1] INFO  (DataReader.java:126) - Data @ row[2]col[4] :raghavhsp@rediffmail.com
+2022-02-07 20:43:44,003 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TestCase: 'VerifyObjectsOfUserHomePage' in rowNum :2
+2022-02-07 20:43:44,004 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Found Data: 'Password' in colNum :5
+2022-02-07 20:43:44,004 +0530 [TestNG-tests-1] INFO  (DataReader.java:126) - Data @ row[2]col[5] :Gagu255245@
+2022-02-07 20:43:45,594 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:477) - Dispalayed : FoldersExpandIcon
+2022-02-07 20:43:45,812 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 47.png
+2022-02-07 20:43:47,399 +0530 [TestNG-tests-1] INFO  (LoginPageFuntions.java:34) - Login into application : SUCCESSFULL
+2022-02-07 20:43:47,444 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:45) - Dispalayed : RediffHomePageLink
+2022-02-07 20:43:47,759 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 47.png
+2022-02-07 20:43:49,857 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:288) - Dispalayed : InboxTabButton
+2022-02-07 20:43:50,205 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 48.png
+2022-02-07 20:43:51,840 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:450) - Dispalayed : AddNewFolderIcon
+2022-02-07 20:43:52,070 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 49.png
+2022-02-07 20:43:54,308 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:342) - Dispalayed : JunkTabButton
+2022-02-07 20:43:54,554 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 50.png
+2022-02-07 20:43:56,130 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:504) - Dispalayed : AddressBookIcon
+2022-02-07 20:43:56,569 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 51.png
+2022-02-07 20:43:58,641 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:234) - Dispalayed : LogOutLink
+2022-02-07 20:43:58,860 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 52.png
+2022-02-07 20:44:00,623 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:99) - Dispalayed : AdvanceSearhLink
+2022-02-07 20:44:00,981 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 53.png
+2022-02-07 20:44:02,977 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:585) - Dispalayed : PrivacyPolicyLink
+2022-02-07 20:44:03,244 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 54.png
+2022-02-07 20:44:05,034 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:315) - Dispalayed : BulkTaBButton
+2022-02-07 20:44:05,489 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 55.png
+2022-02-07 20:44:07,350 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:126) - Dispalayed : SearchIcon
+2022-02-07 20:44:07,634 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 56.png
+2022-02-07 20:44:09,552 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:531) - Dispalayed : CalendarIcon
+2022-02-07 20:44:09,915 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 57.png
+2022-02-07 20:44:11,712 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:72) - Dispalayed : SearchTextBox
+2022-02-07 20:44:11,929 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 58.png
+2022-02-07 20:44:13,987 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:666) - Dispalayed : CopyRightText
+2022-02-07 20:44:14,360 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 59.png
+2022-02-07 20:44:16,020 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:369) - Dispalayed : SentTabButton
+2022-02-07 20:44:16,237 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 60.png
+2022-02-07 20:44:18,429 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:558) - Dispalayed : DisclaimerLink
+2022-02-07 20:44:18,836 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 61.png
+2022-02-07 20:44:20,385 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:207) - Dispalayed : SettingsButton
+2022-02-07 20:44:20,612 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 62.png
+2022-02-07 20:44:22,883 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:423) - Dispalayed : DraftsTabButton
+2022-02-07 20:44:23,311 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 63.png
+2022-02-07 20:44:24,665 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:180) - Dispalayed : SettingsLink
+2022-02-07 20:44:24,904 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 64.png
+2022-02-07 20:44:27,371 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:639) - Dispalayed : FeedBackLink
+2022-02-07 20:44:27,726 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 65.png
+2022-02-07 20:44:29,095 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:396) - Dispalayed : TrashTabButton
+2022-02-07 20:44:29,840 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 66.png
+2022-02-07 20:44:31,808 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:477) - Dispalayed : FoldersExpandIcon
+2022-02-07 20:44:32,223 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 67.png
+2022-02-07 20:44:34,016 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:153) - Dispalayed : UserProfileLink
+2022-02-07 20:44:34,318 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 68.png
+2022-02-07 20:44:36,278 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:288) - Dispalayed : InboxTabButton
+2022-02-07 20:44:36,780 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 69.png
+2022-02-07 20:44:38,387 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:261) - Dispalayed : WriteMailTabButton
+2022-02-07 20:44:38,614 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 70.png
+2022-02-07 20:44:40,886 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:342) - Dispalayed : JunkTabButton
+2022-02-07 20:44:41,242 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 71.png
+2022-02-07 20:44:42,709 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:612) - Dispalayed : tNcLink
+2022-02-07 20:44:43,088 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 72.png
+2022-02-07 20:44:45,297 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:234) - Dispalayed : LogOutLink
+2022-02-07 20:44:45,641 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 73.png
+2022-02-07 20:44:47,518 +0530 [TestNG-tests-2] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 20:44:49,682 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:585) - Dispalayed : PrivacyPolicyLink
+2022-02-07 20:44:50,077 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 75.png
+2022-02-07 20:44:54,142 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:126) - Dispalayed : SearchIcon
+2022-02-07 20:44:54,674 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 76.png
+2022-02-07 20:44:56,800 +0530 [TestNG-tests-2] INFO  (TestBaseClass.java:71) - Lanching browser :Fire Fox
+2022-02-07 20:44:59,053 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:72) - Dispalayed : SearchTextBox
+2022-02-07 20:44:59,592 +0530 [TestNG-tests-2] INFO  (DataReader.java:109) - Found TestCase: 'VerifyObjectsOfUserHomePage' in rowNum :2
+2022-02-07 20:44:59,594 +0530 [TestNG-tests-2] INFO  (DataReader.java:117) - Found Data: 'UserName' in colNum :4
+2022-02-07 20:44:59,595 +0530 [TestNG-tests-2] INFO  (DataReader.java:126) - Data @ row[2]col[4] :raghavhsp@rediffmail.com
+2022-02-07 20:44:59,648 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 77.png
+2022-02-07 20:45:01,071 +0530 [TestNG-tests-2] INFO  (DataReader.java:109) - Found TestCase: 'VerifyObjectsOfUserHomePage' in rowNum :2
+2022-02-07 20:45:01,071 +0530 [TestNG-tests-2] INFO  (DataReader.java:117) - Found Data: 'Password' in colNum :5
+2022-02-07 20:45:01,072 +0530 [TestNG-tests-2] INFO  (DataReader.java:126) - Data @ row[2]col[5] :Gagu255245@
+2022-02-07 20:45:03,724 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:369) - Dispalayed : SentTabButton
+2022-02-07 20:45:04,079 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 78.png
+2022-02-07 20:45:08,228 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:207) - Dispalayed : SettingsButton
+2022-02-07 20:45:08,233 +0530 [TestNG-tests-2] INFO  (LoginPageFuntions.java:34) - Login into application : SUCCESSFULL
+2022-02-07 20:45:08,336 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:45) - Dispalayed : RediffHomePageLink
+2022-02-07 20:45:08,646 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 79.png
+2022-02-07 20:45:08,880 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 79.png
+2022-02-07 20:45:12,796 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:450) - Dispalayed : AddNewFolderIcon
+2022-02-07 20:45:12,999 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:180) - Dispalayed : SettingsLink
+2022-02-07 20:45:13,141 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 81.png
+2022-02-07 20:45:13,620 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 81.png
+2022-02-07 20:45:17,206 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:504) - Dispalayed : AddressBookIcon
+2022-02-07 20:45:17,336 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 82.png
+2022-02-07 20:45:17,681 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:396) - Dispalayed : TrashTabButton
+2022-02-07 20:45:18,104 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 83.png
+2022-02-07 20:45:21,424 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:99) - Dispalayed : AdvanceSearhLink
+2022-02-07 20:45:21,545 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 84.png
+2022-02-07 20:45:22,166 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:153) - Dispalayed : UserProfileLink
+2022-02-07 20:45:22,577 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 85.png
+2022-02-07 20:45:25,597 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:315) - Dispalayed : BulkTaBButton
+2022-02-07 20:45:25,728 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 86.png
+2022-02-07 20:45:26,632 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:261) - Dispalayed : WriteMailTabButton
+2022-02-07 20:45:27,028 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 87.png
+2022-02-07 20:45:29,766 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:531) - Dispalayed : CalendarIcon
+2022-02-07 20:45:29,918 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 88.png
+2022-02-07 20:45:31,135 +0530 [TestNG-tests-1] INFO  (VerifyObjectsOfUserHomePage.java:612) - Dispalayed : tNcLink
+2022-02-07 20:45:31,525 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 89.png
+2022-02-07 20:45:33,972 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:666) - Dispalayed : CopyRightText
+2022-02-07 20:45:34,118 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 90.png
+2022-02-07 20:45:36,278 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 20:45:38,178 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:558) - Dispalayed : DisclaimerLink
+2022-02-07 20:45:38,297 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 92.png
+2022-02-07 20:45:42,380 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:423) - Dispalayed : DraftsTabButton
+2022-02-07 20:45:42,507 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 93.png
+2022-02-07 20:45:46,574 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:639) - Dispalayed : FeedBackLink
+2022-02-07 20:45:46,693 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 94.png
+2022-02-07 20:45:50,791 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:477) - Dispalayed : FoldersExpandIcon
+2022-02-07 20:45:50,968 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 95.png
+2022-02-07 20:45:55,024 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:288) - Dispalayed : InboxTabButton
+2022-02-07 20:45:55,140 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 96.png
+2022-02-07 20:45:59,224 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:342) - Dispalayed : JunkTabButton
+2022-02-07 20:45:59,361 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 97.png
+2022-02-07 20:46:03,410 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:234) - Dispalayed : LogOutLink
+2022-02-07 20:46:03,527 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 98.png
+2022-02-07 20:46:07,592 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:585) - Dispalayed : PrivacyPolicyLink
+2022-02-07 20:46:07,714 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 99.png
+2022-02-07 20:46:11,778 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:126) - Dispalayed : SearchIcon
+2022-02-07 20:46:11,901 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 100.png
+2022-02-07 20:46:15,964 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:72) - Dispalayed : SearchTextBox
+2022-02-07 20:46:16,090 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 101.png
+2022-02-07 20:46:20,164 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:369) - Dispalayed : SentTabButton
+2022-02-07 20:46:20,281 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 102.png
+2022-02-07 20:46:24,329 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:207) - Dispalayed : SettingsButton
+2022-02-07 20:46:24,440 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 103.png
+2022-02-07 20:46:28,506 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:180) - Dispalayed : SettingsLink
+2022-02-07 20:46:28,628 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 104.png
+2022-02-07 20:46:32,698 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:396) - Dispalayed : TrashTabButton
+2022-02-07 20:46:32,813 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 105.png
+2022-02-07 20:46:36,864 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:153) - Dispalayed : UserProfileLink
+2022-02-07 20:46:36,990 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 106.png
+2022-02-07 20:46:41,046 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:261) - Dispalayed : WriteMailTabButton
+2022-02-07 20:46:41,171 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 107.png
+2022-02-07 20:46:45,230 +0530 [TestNG-tests-2] INFO  (VerifyObjectsOfUserHomePage.java:612) - Dispalayed : tNcLink
+2022-02-07 20:46:45,366 +0530 [TestNG-tests-2] INFO  (TakeScreenShot.java:39) - Screnshot Captured 108.png
+2022-02-07 20:46:50,882 +0530 [TestNG-tests-2] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 20:46:56,257 +0530 [main] INFO  (TestBaseClass.java:125) - Email report sent
+2022-02-07 21:23:52,886 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 21:24:01,535 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Found Data: 'UserName' in colNum :4
+2022-02-07 21:24:01,536 +0530 [TestNG-tests-1] ERROR (DataReader.java:140) - Cannot invoke "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" because "row" is null
+2022-02-07 21:24:04,115 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:50) - Exception Message :Keys to send should be a not null CharSequence
+2022-02-07 21:24:04,116 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:51) - Element Details: By.xpath: //input[contains(@id,'login')]
+2022-02-07 21:24:06,259 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Found Data: 'Password' in colNum :5
+2022-02-07 21:24:06,260 +0530 [TestNG-tests-1] ERROR (DataReader.java:140) - Cannot invoke "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" because "row" is null
+2022-02-07 21:24:07,025 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:50) - Exception Message :Keys to send should be a not null CharSequence
+2022-02-07 21:24:07,026 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:51) - Element Details: By.xpath: //input[contains(@id,'password')]
+2022-02-07 21:24:07,392 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:70) - Exception Message :unexpected alert open: {Alert text : Please enter a valid user name}
+  (Session info: chrome=98.0.4758.81): Please enter a valid user name
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [05783e3f605a1b0556137abb402ebe97, findElements {using=xpath, value=//a[text()='Logout']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49166}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49166/devtoo..., se:cdpVersion: 98.0.4758.81, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 05783e3f605a1b0556137abb402ebe97
+2022-02-07 21:24:07,397 +0530 [TestNG-tests-1] INFO  (SeleneiumUtilities.java:71) - Element Details: By.xpath: //a[text()='Logout']
+2022-02-07 21:24:12,456 +0530 [TestNG-tests-1] ERROR (SeleneiumUtilities.java:18) - Exception Message :no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Logout']"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-I7N3PLM', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [05783e3f605a1b0556137abb402ebe97, findElement {using=xpath, value=//a[text()='Logout']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Vaaman\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49166}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49166/devtoo..., se:cdpVersion: 98.0.4758.81, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 05783e3f605a1b0556137abb402ebe97
+2022-02-07 21:24:13,025 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 21:24:18,336 +0530 [main] INFO  (TestBaseClass.java:125) - Email report sent
+2022-02-07 21:26:44,817 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 21:26:53,753 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TestCase: 'ValidateLoginLogOut_test' in rowNum :3
+2022-02-07 21:26:53,754 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Found Data: 'UserName' in colNum :4
+2022-02-07 21:26:53,755 +0530 [TestNG-tests-1] INFO  (DataReader.java:126) - Data @ row[3]col[4] :raghavhsp@rediffmail.com
+2022-02-07 21:26:54,918 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TestCase: 'ValidateLoginLogOut_test' in rowNum :3
+2022-02-07 21:26:54,919 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Found Data: 'Password' in colNum :5
+2022-02-07 21:26:54,920 +0530 [TestNG-tests-1] INFO  (DataReader.java:126) - Data @ row[3]col[5] :Gagu255245@
+2022-02-07 21:27:04,126 +0530 [TestNG-tests-1] INFO  (LoginPageFuntions.java:32) - Login into application : SUCCESSFULL
+2022-02-07 21:27:04,788 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 1.png
+2022-02-07 21:30:21,059 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:55) - Lanching browser :Chrome
+2022-02-07 21:30:25,908 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TestCase: 'ValidateLoginLogOut_test' in rowNum :3
+2022-02-07 21:30:25,909 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Found Data: 'UserName' in colNum :4
+2022-02-07 21:30:25,909 +0530 [TestNG-tests-1] INFO  (DataReader.java:126) - Data @ row[3]col[4] :raghavhsp@rediffmail.com
+2022-02-07 21:30:27,509 +0530 [TestNG-tests-1] INFO  (DataReader.java:109) - Found TestCase: 'ValidateLoginLogOut_test' in rowNum :3
+2022-02-07 21:30:27,510 +0530 [TestNG-tests-1] INFO  (DataReader.java:117) - Found Data: 'Password' in colNum :5
+2022-02-07 21:30:27,510 +0530 [TestNG-tests-1] INFO  (DataReader.java:126) - Data @ row[3]col[5] :Gagu255245@
+2022-02-07 21:30:30,619 +0530 [TestNG-tests-1] INFO  (LoginPageFuntions.java:32) - Login into application : SUCCESSFULL
+2022-02-07 21:30:31,155 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 1.png
+2022-02-07 21:30:36,986 +0530 [TestNG-tests-1] INFO  (HomePageFuntions.java:34) - Logging Out of application : SUCCESSFULL
+2022-02-07 21:30:37,152 +0530 [TestNG-tests-1] INFO  (TakeScreenShot.java:39) - Screnshot Captured 2.png
+2022-02-07 21:30:41,850 +0530 [TestNG-tests-1] INFO  (TestBaseClass.java:114) - Browser Window Closed
+2022-02-07 21:30:47,110 +0530 [main] INFO  (TestBaseClass.java:125) - Email report sent

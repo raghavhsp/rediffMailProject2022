@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="RA QA Test XML"  parallel="tests" thread-count="2">
+<!-- ####################################################################################################################### -->
+			<test name="Validate elements of Rediffmail login page in Chrome Browser">
+				<parameter name="browser" value="chrome" />
+				<classes>
+					<class name="common.RediffMail.Test.ValidateLoginLogOut" />
+				</classes>
+			</test>
+</suite>
